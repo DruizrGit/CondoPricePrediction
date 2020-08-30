@@ -1,0 +1,676 @@
+43.64542,-79.38736,"0,"#2506 -183 WELLINGTON ST W, Toronto, Ontario, M5V 0A1"","183 Wellington Street West, Toronto, ON, CA",,MapQuest,address
+43.64309,-79.40183,"1,"#PH 1027 -55 STEWART ST, Toronto, Ontario, M5V 2V1"","55 Stewart Street, Toronto, ON, CA",,MapQuest,address
+43.63814,-79.39147,"3,"#1003 -410 QUEENS QUAY W, Toronto, Ontario, M5V 3T1"","410 Queens Quay West, Toronto, ON, CA",,MapQuest,address
+43.70565,-79.39738,"4,"#4901 -2191 YONGE ST, Toronto, Ontario, M4S 3H8"","2191 Yonge Street, Toronto, ON, CA",,MapQuest,address
+43.65471,-79.37921,"5,"#1801 -210 VICTORIA  ST, Toronto, Ontario, M5B 2R3"","210 Victoria Street, Toronto, ON, CA",,MapQuest,address
+43.79532,-79.35455,"7,"#713 -89 SKYMARK DR, Toronto, Ontario, M2H 3S6"","89 Skymark Drive, North York, ON, CA",,MapQuest,address
+43.70377,-79.41107,"9,"#201 -70 ELMSTHORPE AVE, Toronto, Ontario, M5P 2L7"","70 Elmsthorpe Avenue, Toronto, ON, CA",,MapQuest,address
+43.653943,-79.353781,"14,"#N115 -120 BAYVIEW  AVE, Toronto, Ontario, M5A 3R7"","[100 - 118] Bayview Ave, n115 120, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649612,-79.361257,"15,"#417 -70 DISTILLERY LANE, Toronto, Ontario, M5A 0E3"","15 Distillery Lane, 417 70, Toronto, Toronto, ON, CA",,MapQuest,address
+43.661004,-79.38595,"17,"#1905 -832 BAY ST, Toronto, Ontario, M5S 1Z6"","[801 - 801] Bay St, 1905 832, Toronto, Toronto, ON, CA",,MapQuest,street
+43.626172,-79.486406,"18,"#PH 3102 -90 PARK LAWN RD, Toronto, Ontario, M8Y 0B6"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.667352,-79.388997,"19,"#2005 -65 ST MARY ST, Toronto, Ontario, M5S 0A6"","[51 - 73] St Mary St, 2005 65, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650065,-79.37038,"21,"#1810 -105 GEORGE ST, Toronto, Ontario, M5A 2N4"","21 George St, 1810 105, Toronto, Toronto, ON, CA",,MapQuest,address
+43.748547,-79.2046,"22,"#524 -10 GUILDWOOD PKWY, Toronto, Ontario, M1E 5B5"","22 Guildwood Pky, 524 10, Toronto, Toronto, ON, CA",,MapQuest,address
+43.650605,-79.376727,"23,"#703 -290 ADELAIDE ST W, Toronto, Ontario, M5V 1P6"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.656682,-79.381069,"24,"#2609 -197 YONGE ST, Toronto, Ontario, M5B 1M4"","[300 - 316] Yonge St, 2609 197, Toronto, Toronto, ON, CA",,MapQuest,street
+43.656409,-79.33815,"25,"#308 -319 CARLAW AVE, Toronto, Ontario, M4M 0A4"","25 Carlaw Ave, 308 319, Toronto, Toronto, ON, CA",,MapQuest,address
+43.642459,-79.432735,"26,"#24 -284 BROCK AVE, Toronto, Ontario, M6K 2M4"","26 Brock Ave, 24 284, Toronto, Toronto, ON, CA",,MapQuest,address
+43.656376,-79.338136,"28,"#509 -233 CARLAW AVE, Toronto, Ontario, M4M 3N6"","28 Carlaw Ave, 509 233, Toronto, Toronto, ON, CA",,MapQuest,address
+43.653943,-79.353781,"29,"#2402 -170 BAYVIEW AVE, Toronto, Ontario, M5A 1H7"","[101 - 119] Bayview Ave, 2402 170, Toronto, Toronto, ON, CA",,MapQuest,street
+43.60804,-79.499721,"30,"#602 -2267 LAKE SHORE BLVD W, Toronto, Ontario, M8V 3X2"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.75186,-79.38101,"31,"77 CRIMSON MILLWAY WAY, Toronto, Ontario, M2L 1T8"","77 Crimson Millway, North York, ON, CA",,MapQuest,address
+43.660489,-79.451822,"32,"#235 -5 ELSIE LANE, Toronto, Ontario, M6P 3N3"","32 Elsie Lane, 235 5, Toronto, Toronto, ON, CA",,MapQuest,address
+43.776352,-79.411246,"33,"#2317 -18 SOMMERSET WAY, Toronto, Ontario, M2N 6X5"","33 Sommerset Way, 2317 18, Toronto, Toronto, ON, CA",,MapQuest,address
+43.638416,-79.398979,"34,"#2715 -75 QUEENS WHARF RD, Toronto, Ontario, M5V 0J8"","34 Queens Wharf Rd, 2715 75, Toronto, Toronto, ON, CA",,MapQuest,address
+43.71677,-79.400523,"35,"#103 -3800 YONGE ST, Toronto, Ontario, M4N 3P7"","[2675 - 2707] Yonge St, 103 3800, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638435,-79.398987,"36,"#3615 -75 QUEENS WHARF RD, Toronto, Ontario, M5V 0J8"","36 Queens Wharf Rd, 3615 75, Toronto, Toronto, ON, CA",,MapQuest,address
+43.667531,-79.310552,"37,"#302 -1733 QUEEN ST E, Toronto, Ontario, M4L 6S9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.671803,-79.388136,"38,"#1717 -155 YORKVILLE AVE, Toronto, Ontario, M5R 1C4"","[14 - 16] Yorkville Ave, 1717 155, Toronto, Toronto, ON, CA",,MapQuest,street
+43.667782,-79.309398,"39,"#211 -1765 QUEEN ST E, Toronto, Ontario, M4L 3Z2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.705906,-79.394883,"40,"#1005 -89 DUNFIELD AVE, Toronto, Ontario, M4S 0A4"","40 Dunfield Ave, 1005 89, Toronto, Toronto, ON, CA",,MapQuest,address
+43.77764,-79.41153,"41,"#9 -70 BYNG AVE, Toronto, Ontario, M2N 7L9"","70 Byng Avenue, North York, ON, CA",,MapQuest,address
+43.760384,-79.41238,"42,"#808 -9 BOGERT AVE, Toronto, Ontario, M2N 0H3"","42 Bogert Ave, 808 9, Toronto, Toronto, ON, CA",,MapQuest,address
+43.647964,-79.417168,"43,"#1118 -20 MINOWAN MIIKAN LANE, Toronto, Ontario, M6J 0E5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.629693,-79.374481,"44,"#804 -208 QUEENS QUAY W, Toronto, Ontario, M5J 2Y5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.647822,-79.396999,"45,"#305 -435 RICHMOND ST W, Toronto, Ontario, M5V 1X9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.657708,-79.378338,"46,"#501 -159 DUNDAS ST E, Toronto, Ontario, M5B 1E4"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.767739,-79.390916,"47,"#706 -2 CLAIRTRELL RD, Toronto, Ontario, M2N 7H5"","47 Clairtrell Rd, 706 2, Toronto, Toronto, ON, CA",,MapQuest,address
+43.642275,-79.572971,"50,"#33 -22 APPLEWOOD LANE, Toronto, Ontario, M9C 2Z7"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.764086,-79.40847,"51,"#619 -500 DORIS AVE, Toronto, Ontario, M2N 0C1"","[101 - 103] Doris Ave, 619 500, Toronto, Toronto, ON, CA",,MapQuest,street
+43.648289,-79.391846,"52,"#3106 -21 WIDMER ST, Toronto, Ontario, M5V 0B8"","52 Widmer St, 3106 21, Toronto, Toronto, ON, CA",,MapQuest,address
+43.641304,-79.397055,"55,"#221 -525 ADELAIDE ST W, Toronto, Ontario, M5V 1T6"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.764086,-79.40847,"58,"#205 -260 DORIS AVE, Toronto, Ontario, M2N 6X9"","[100 - 102] Doris Ave, 205 260, Toronto, Toronto, ON, CA",,MapQuest,street
+43.672979,-79.390106,"60,"#2402 -32 DAVENPORT RD, Toronto, Ontario, M5R 0B5"","60 Davenport Rd, 2402 32, Toronto, Toronto, ON, CA",,MapQuest,address
+43.668604,-79.386205,"61,"#1208 -33 CHARLES ST E, Toronto, Ontario, M4Y 0A2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.710261,-79.395434,"62,"#1305 -25 BROADWAY AVE, Toronto, Ontario, M4P 1T7"","62 Broadway Ave, 1305 25, Toronto, Toronto, ON, CA",,MapQuest,address
+43.7656,-79.384961,"64,"#812 -7 KENASTON  GDNS, Toronto, Ontario, M2K 1G7"","64 Kenaston Gdns, 812 7, Toronto, Toronto, ON, CA",,MapQuest,address
+43.669669,-79.341056,"65,"#304 -660 PAPE AVE, Toronto, Ontario, M4K 3S5"","[359 - 369] Pape Ave, 304 660, Toronto, Toronto, ON, CA",,MapQuest,street
+43.764086,-79.40847,"66,"#1407 -188 DORIS AVE, Toronto, Ontario, M2N 6Z5"","[100 - 102] Doris Ave, 1407 188, Toronto, Toronto, ON, CA",,MapQuest,street
+43.769711,-79.36976,"67,"#1022 -19 SINGER CRT, Toronto, Ontario, M2K 0B2"","67 Singer Crt, 1022 19, Toronto, Toronto, ON, CA",,MapQuest,address
+43.648689,-79.38945,"68,"#2810 -30 NELSON ST, Toronto, Ontario, M5V 0H5"","68 Nelson St, 2810 30, Toronto, Toronto, ON, CA",,MapQuest,address
+43.661835,-79.379451,"69,"#1611 -7 CARLTON ST, Toronto, Ontario, M5B 2M3"","69 Carlton St, 1611 7, Toronto, Toronto, ON, CA",,MapQuest,address
+43.756451,-79.409723,"70,"#507 -5168 YONGE ST, Toronto, Ontario, M2N 5P6"","[4500 - 4576] Yonge St, 507 5168, Toronto, Toronto, ON, CA",,MapQuest,street
+43.78,-79.4196,"71,"##56 -19 ELDORA AVE, Toronto, Ontario, M2M 0B5"","19 Eldora Avenue, North York, ON, CA",,MapQuest,address
+43.768938,-79.190102,"72,"#11 -15 HERON PARK PL, Toronto, Ontario, M1E 0B8"","Scarborough, Toronto, ON, CA",,MapQuest,postcode
+43.775413,-79.412944,"73,"#611 -5 NORTHTOWN WAY, Toronto, Ontario, M2N 7A1"","73 Northtown Way, 611 5, Toronto, Toronto, ON, CA",,MapQuest,address
+43.650383,-79.381929,"76,"#1008 -70 TEMPERANCE ST, Toronto, Ontario, M5H 4E8"","76 Temperance St, 1008 70, Toronto, Toronto, ON, CA",,MapQuest,address
+43.656722,-79.407836,"77,"#421 -783 BATHURST ST, Toronto, Ontario, M5S 1Z5"","[485 - 503] Bathurst St, 421 783, Toronto, Toronto, ON, CA",,MapQuest,street
+43.77742,-79.411033,"78,"#710 -28 BYNG AVE, Toronto, Ontario, M2N 7H4"","78 Byng Ave, 710 28, Toronto, Toronto, ON, CA",,MapQuest,address
+43.683261,-79.418344,"79,"#807 -1486 BATHURST ST, Toronto, Ontario, M5P 3G9"","[1459 - 1465] Bathurst St, 807 1486, Toronto, Toronto, ON, CA",,MapQuest,street
+43.655073,-79.469594,"80,"#115 -20 GOTHIC AVE, Toronto, Ontario, M6P 1T5"","80 Gothic Ave, 115 20, Toronto, Toronto, ON, CA",,MapQuest,address
+43.774506,-79.252857,"81,"#3602 -25 TOWN CENTRE CRT, Toronto, Ontario, M1P 0B4"","81 Town Centre Crt, 3602 25, Toronto, Toronto, ON, CA",,MapQuest,address
+43.758753,-79.407469,"84,"#639 -3 EVERSON DR, Toronto, Ontario, M2N 7C2"","84 Everson Dr, 639 3, Toronto, Toronto, ON, CA",,MapQuest,address
+43.664699,-79.380237,"85,"#1208 -25 MAITLAND ST, Toronto, Ontario, M4Y 2W1"","85 Maitland St, 1208 25, Toronto, Toronto, ON, CA",,MapQuest,address
+43.725418,-79.340739,"86,"#825 -99 THE DONWAY AVE, Toronto, Ontario, M3C 0N8"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.660898,-79.38591,"88,"#914 -1055 BAY ST, Toronto, Ontario, M5S 3A3"","[792 - 796] Bay St, 914 1055, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641037,-79.414894,"89,"#829 -1 SHAW ST, Toronto, Ontario, M6K 0A1"","[1 - 5] Shaw St, 829 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64552,-79.392091,"90,"#520 -20 BLUE JAYS WAY, Toronto, Ontario, M5V 3W6"","90 Blue Jays Way, 520 20, Toronto, Toronto, ON, CA",,MapQuest,address
+43.642684,-79.4221,"91,"#220 -8 DOVERCOURT RD, Toronto, Ontario, M6J 0B6"","91 Dovercourt Rd, 220 8, Toronto, Toronto, ON, CA",,MapQuest,address
+43.654143,-79.361363,"92,"#1702 -181 DUNDAS ST E, Toronto, Ontario, M5A 0N5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.63257,-79.41988,"93,"66 DUNDALK  DR, Toronto, Ontario, M1P 4T7"","66 Ontario Drive, Toronto, ON, CA",,MapQuest,address
+43.641129,-79.394821,"94,"#4201 -25 TELEGRAM MEWS, Toronto, Ontario, M5V 3Z9"","94 Telegram Mews, 4201 25, Toronto, Toronto, ON, CA",,MapQuest,address
+43.81114,-79.35793,"97,"51 YELLOW BIRCH WAY, Toronto, Ontario, M2H 2S9"","51 Yellow Birchway, North York, ON, CA",,MapQuest,address
+43.653109,-79.389736,"98,"#132 -78 ST PATRICK ST, Toronto, Ontario, M5T 3K8"","98 St Patrick St, 132 78, Toronto, Toronto, ON, CA",,MapQuest,address
+43.698054,-79.396608,"100,"#302 -1901 YONGE ST, Toronto, Ontario, M4S 1Y6"","[1890 - 1904] Yonge St, 302 1901, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757448,-79.408489,"101,"#PH6 -51 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 7G4"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.774634,-79.344008,"102,"#501 -56 FOREST MANOR RD, Toronto, Ontario, M2J 1M6"","[78 - 98] Forest Manor Rd, 501 56, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638388,-79.415256,"103,"#1015 -51 EAST LIBERTY ST, Toronto, Ontario, M6K 3P8"","103 E Liberty St, 1015 51, Toronto, Toronto, ON, CA",,MapQuest,address
+43.777579,-79.274902,"104,"#35 -2800 MIDLAND AVE, Toronto, Ontario, M1S 3K7"","[2300 - 2302] Midland Ave, 35 2800, Toronto, Toronto, ON, CA",,MapQuest,street
+43.655328,-79.374095,"105,"#1902 -68 SHUTER ST, Toronto, Ontario, M5B 1B4"","[91 - 93] Shuter St, 1902 68, Toronto, Toronto, ON, CA",,MapQuest,street
+43.687551,-79.50527,"106,"#615 -75 EMMETT AVE, Toronto, Ontario, M6M 5A7"","106 Emmett Ave, 615 75, Toronto, Toronto, ON, CA",,MapQuest,address
+43.730643,-79.332089,"107,"#524 -120 DALLIMORE CIRC, Toronto, Ontario, M3C 4J1"","107 Dallimore Cir, 524 120, Toronto, Toronto, ON, CA",,MapQuest,address
+43.723103,-79.44826,"108,"#502 -830 LAWRENCE AVE W, Toronto, Ontario, M6A 0B6"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.641304,-79.397055,"109,"#213 -608 RICHMOND ST W, Toronto, Ontario, M5V 1Y9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.653118,-79.370401,"110,"#1115 -255 RICHMOND ST E, Toronto, Ontario, M5A 4T7"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.66247,-79.376716,"111,"#223 -415 JARVIS ST, Toronto, Ontario, M4Y 2G8"","[387 - 387] Jarvis St, 223 415, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642566,-79.38305,"112,"#1111 -55 BREMNER BLVD, Toronto, Ontario, M5J 0A6"","112 Bremner Blvd, 1111 55, Toronto, Toronto, ON, CA",,MapQuest,address
+43.653179,-79.375401,"114,"#1103 -127 QUEEN ST E, Toronto, Ontario, M5C 1S1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.656567,-79.355764,"115,"#803 -51 TROLLEY CRES, Toronto, Ontario, M5A 0E9"","[69 - 99] Trolley Cres, 803 51, Toronto, Toronto, ON, CA",,MapQuest,street
+43.745435,-79.49152,"116,"22 ENCLAVE MEWS, Toronto, Ontario, M3M 3J6"","[2 - 98] Enclave Mews, 22, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641304,-79.397055,"117,"#1018 -629 KING ST W, Toronto, Ontario, M5V 0G9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.804649,-79.201061,"118,"#207 -8835 SHEPPARD AVE E, Toronto, Ontario, M1B 5R7"","Scarborough, Toronto, ON, CA",,MapQuest,postcode
+43.808713,-79.3108,"120,"#1716 -1883 MCNICOLL AVE, Toronto, Ontario, M1V 5M3"","[1082 - 1082] McNicoll Ave, 1716 1883, Toronto, Toronto, ON, CA",,MapQuest,street
+43.655215,-79.385111,"121,"#103 -111 ELIZABETH ST, Toronto, Ontario, M5G 1P7"","121 Elizabeth St, 103 111, Toronto, Toronto, ON, CA",,MapQuest,address
+43.638698,-79.537148,"122,"#204 -15 VIKING LANE, Toronto, Ontario, M9B 0A4"","122 Viking Lane, 204 15, Toronto, Toronto, ON, CA",,MapQuest,address
+43.767532,-79.383056,"123,"#606 -27 REAN DR, Toronto, Ontario, M2K 0A6"","[23 - 99] Rean Dr, 606 27, Toronto, Toronto, ON, CA",,MapQuest,street
+43.65877,-79.33912,"124,"#L01 -201 CARLAW AVE, Toronto, Ontario, M4M 2S3"","124 Carlaw Ave, l01 201, Toronto, Toronto, ON, CA",,MapQuest,address
+43.767532,-79.383056,"126,"#1114 -2 REAN DR, Toronto, Ontario, M2K 3B8"","[22 - 98] Rean Dr, 1114 2, Toronto, Toronto, ON, CA",,MapQuest,street
+43.685414,-79.504602,"127,"#1210 -85 EMMETT AVE, Toronto, Ontario, M6M 5A2"","127 Emmett Ave, 1210 85, Toronto, Toronto, ON, CA",,MapQuest,address
+43.825378,-79.272688,"128,"#2003 -80 ALTON TOWERS CIRC, Toronto, Ontario, M1V 5E8"","128 Alton Towers Cir, 2003 80, Toronto, Toronto, ON, CA",,MapQuest,address
+43.645128,-79.531754,"129,"#1613 -1 MICHAEL POWER PL, Toronto, Ontario, M9A 0A1"","[47 - 99] Michael Power Pl, 1613 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.712046,-79.323466,"130,"##411 -60 PAVANE LINK WAY, Toronto, Ontario, M3C 1A1"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.774634,-79.344008,"131,"#305 -20 FOREST MANOR RD, Toronto, Ontario, M2J 1M2"","[89 - 99] Forest Manor Rd, 305 20, Toronto, Toronto, ON, CA",,MapQuest,street
+43.631713,-79.574908,"133,"#608 -420 MILL RD, Toronto, Ontario, M9C 1Z1"","133 Mill Rd, 608 420, Toronto, Toronto, ON, CA",,MapQuest,address
+43.778178,-79.281314,"137,"#2908 -125 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0G3"","[121 - 129] Village Green Sq, 2908 125, Toronto, Toronto, ON, CA",,MapQuest,street
+43.751232,-79.58412,"138,"#1106 -1 ROWNTREE RD, Toronto, Ontario, M9V 5G7"","[6 - 98] Rowntree Rd, 1106 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647092,-79.397176,"141,"#508 -32 CAMDEN ST, Toronto, Ontario, M5V 1V1"","[1 - 99] Camden St, 508 32, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746838,-79.56856,"142,"#618 -2825 ISLINGTON AVE, Toronto, Ontario, M9L 2K1"","[2784 - 2784] Islington Ave, 618 2825, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639216,-79.398937,"144,"#605 -170 FORT YORK BLVD, Toronto, Ontario, M5V 0E6"","144 Fort York Blvd, 605 170, Toronto, Toronto, ON, CA",,MapQuest,address
+43.692949,-79.566782,"145,"#310 -320 DIXON RD E, Toronto, Ontario, M9R 1S8"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.71141,-79.32846,"146,"##2311 -100 LEEWARD GLENWAY GLWY, Toronto, Ontario, M3C 2Z1"","100 Leeward Glenway, North York, ON, CA",,MapQuest,address
+43.805456,-79.227235,"147,"##907 -10 TAPSCOTT RD, Toronto, Ontario, M1B 3L9"","147 Tapscott Rd, 907 10, Toronto, Toronto, ON, CA",,MapQuest,address
+43.69661,-79.29421,"148,"1 MASSEY  SQ, Toronto, Ontario, M4C 5L4"","1 Massey Square, East York, ON, CA",,MapQuest,address
+43.792529,-79.245182,"149,"#904 -5580 SHEPPARD AVE E, Toronto, Ontario, M1B 2L3"","Scarborough, ON, CA",,MapQuest,ZIP_EXTENDED
+43.816113,-79.211411,"152,"#1109 -15 SEWELLS RD, Toronto, Ontario, M1B 3V7"","[96 - 98] Sewells Rd, 1109 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.696299,-79.291855,"153,"#1818 -1 MASSEY SQ, Toronto, Ontario, M4C 5L4"","[43 - 99] Massey Sq, 1818 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64974,-79.374317,"156,"#301 -35 CHURCH ST, Toronto, Ontario, M5E 1T3"","[46 - 50] Church St, 301 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.670147,-79.387713,"158,"#1904 -278 BLOOR  ST E, Toronto, Ontario, M4W 3M4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.651938,-79.381883,"159,"#PH01 -763 BAY ST, Toronto, Ontario, M5G 2R3"","[411 - 421] Bay St, ph01 763, Toronto, Toronto, ON, CA",,MapQuest,street
+43.708969,-79.393874,"161,"#1815 -70 ROEHAMPTON AVE, Toronto, Ontario, M4P 1R2"","161 Roehampton Ave, 1815 70, Toronto, Toronto, ON, CA",,MapQuest,address
+43.697175,-79.391112,"163,"#1503 -195 MERTON ST, Toronto, Ontario, M4S 3H6"","163 Merton St, 1503 195, Toronto, Toronto, ON, CA",,MapQuest,address
+43.666554,-79.381667,"165,"#2804 -101 CHARLES ST E, Toronto, Ontario, M4Y 0A9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.7656,-79.384961,"166,"#912 -7 KENASTON GDNS, Toronto, Ontario, M2K 0E9"","[30 - 98] Kenaston Gdns, 912 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.73737,-79.343419,"167,"#118 -1210 DON MILLS RD, Toronto, Ontario, M3B 3N9"","[1107 - 1119] Don Mills Rd, 118 1210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.674058,-79.390767,"168,"#705 -3 MCALPINE ST, Toronto, Ontario, M5R 3T5"","[2 - 32] McAlpine St, 705 3, Toronto, Toronto, ON, CA",,MapQuest,street
+43.662304,-79.377283,"171,"#314 -23 CARLTON ST, Toronto, Ontario, M5B 1L2"","[89 - 119] Carlton St, 314 23, Toronto, Toronto, ON, CA",,MapQuest,street
+43.653325,-79.490735,"173,"#101 -2 OLD MILL DR, Toronto, Ontario, M6S 0A2"","173 Old Mill Dr, 101 2, Toronto, Toronto, ON, CA",,MapQuest,address
+43.652581,-79.382491,"174,"#1806 -770 BAY ST, Toronto, Ontario, M5G 1N6"","[400 - 454] Bay St, 1806 770, Toronto, Toronto, ON, CA",,MapQuest,street
+43.646916,-79.403876,"175,"#403 -60 BATHURST ST, Toronto, Ontario, M5V 2P4"","175 Bathurst St, 403 60, Toronto, Toronto, ON, CA",,MapQuest,address
+43.657022,-79.445578,"177,"#202 -50 MERCHANT LANE, Toronto, Ontario, M6P 4J6"","[1 - 99] Merchant Lane, 202 50, Toronto, Toronto, ON, CA",,MapQuest,street
+43.640598,-79.382776,"178,"#2804 -88 HARBOUR ST, Toronto, Ontario, M5J 1B7"","178 Harbour St, 2804 88, Toronto, Toronto, ON, CA",,MapQuest,address
+43.660898,-79.38591,"180,"#1906 -1080 BAY ST, Toronto, Ontario, M5S 0A6"","[792 - 796] Bay St, 1906 1080, Toronto, Toronto, ON, CA",,MapQuest,street
+43.758809,-79.419381,"181,"#1708 -9 BOGERT AVE, Toronto, Ontario, M2N 5M6"","181 Bogert Ave, 1708 9, Toronto, Toronto, ON, CA",,MapQuest,address
+43.646876,-79.524337,"183,"#1603 -1300 ISLINGTON AVE, Toronto, Ontario, M9A 5C4"","[1255 - 1257] Islington Ave, 1603 1300, Toronto, Toronto, ON, CA",,MapQuest,street
+43.6792,-79.459486,"184,"#28 -121 PRESCOTT AVE, Toronto, Ontario, M6N 3G8"","184 Prescott Ave, 28 121, Toronto, Toronto, ON, CA",,MapQuest,address
+43.707075,-79.395415,"185,"#604 -89 DUNFIELD AVE, Toronto, Ontario, M4S 0A4"","[85 - 99] Dunfield Ave, 604 89, Toronto, Toronto, ON, CA",,MapQuest,street
+43.648537,-79.371932,"186,"914-1 Market St, Toronto, ON, M5E 0A2"","[6 - 98] Market St, 914 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.68476,-79.30092,"187,"202-214 Main St, Toronto, ON, M4E 2W1"","214 Main Street, Toronto, ON, CA",,MapQuest,address
+43.669822,-79.316684,"188,"#303 -2012 QUEEN ST E, Toronto, Ontario, M4L 1J3"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.714288,-79.354853,"189,"#101 -6 BRIAN PECK CRES, Toronto, Ontario, M4G 4K4"","[1 - 99] Brian Peck Cres, 101 6, Toronto, Toronto, ON, CA",,MapQuest,street
+43.661424,-79.353486,"190,"6-29 Frances Loring  Lane, Toronto, ON, M4M 3E8"","[20 - 98] Frances Loring Lane, 6 29, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64813,-79.37132,"191,"#702 -1 THE ESPLANADE, Toronto, Ontario, M5E 0A8"","[117 - 125] The Esplanade, 702 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.640447,-79.395824,"192,"3506-25 Capreol Crt, Toronto, ON, M5V 3Z7"","[2 - 98] Capreol Crt, 3506 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.767936,-79.401624,"193,"#110 -23 HOLLYWOOD AVE, Toronto, Ontario, M2N 7L8"","193 Hollywood Ave, 110 23, Toronto, Toronto, ON, CA",,MapQuest,address
+43.775306,-79.359008,"195,"#1014 -10 BLOORVIEW PL, Toronto, Ontario, M2J 0B1"","195 Bloorview Pl, 1014 10, Toronto, Toronto, ON, CA",,MapQuest,address
+43.658962,-79.362567,"196,"#2310 -225 SACKVILLE ST, Toronto, Ontario, M5A 0B9"","196 Sackville St, 2310 225, Toronto, Toronto, ON, CA",,MapQuest,address
+43.653254,-79.407737,"197,"#15 -75 MARKHAM ST, Toronto, Ontario, M6J 2G4"","197 Markham St, 15 75, Toronto, Toronto, ON, CA",,MapQuest,address
+43.641058,-79.376737,"200,"#510 -65 HARBOUR SQ, Toronto, Ontario, M5J 2L4"","[44 - 98] Harbour Sq, 510 65, Toronto, Toronto, ON, CA",,MapQuest,street
+43.769646,-79.37007,"201,"#2702 -29 SINGER CRT, Toronto, Ontario, M2K 0B3"","[1 - 99] Singer Crt, 2702 29, Toronto, Toronto, ON, CA",,MapQuest,street
+43.643921,-79.389492,"202,"#2106 -300 FRONT ST W, Toronto, Ontario, M5V 0E9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.647014,-79.403911,"204,"#517W -27 BATHURST ST, Toronto, Ontario, M5V 2P1"","[178 - 178] Bathurst St, 517w 27, Toronto, Toronto, ON, CA",,MapQuest,street
+43.60996,-79.559553,"205,"#1704 -235 SHERWAY GARDENS RD, Toronto, Ontario, M9C 0A2"","205 Sherway Gardens Rd, 1704 235, Toronto, Toronto, ON, CA",,MapQuest,address
+43.654143,-79.361363,"207,"#1212 -320 RICHMOND ST E, Toronto, Ontario, M5A 1P9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.64534,-79.4431,"210,"102-369 Sorauren Ave, Toronto, ON, M6R 2G5"","Sorauren Avenue, Toronto, ON, CA",,MapQuest,street
+43.687416,-79.290845,"213,"19 PHILPOTT GDNS, Toronto, Ontario, M4E 0A8"","[1 - 99] Philpott Gdns, 19, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654898,-79.426915,"215,"#405 -707 DOVERCOURT RD, Toronto, Ontario, M6H 2W7"","[433 - 535] Dovercourt Rd, 405 707, Toronto, Toronto, ON, CA",,MapQuest,street
+43.640472,-79.397766,"216,"#3916 -15 ICEBOAT TERR, Toronto, Ontario, M5V 4A5"","[22 - 98] Iceboat Terr, 3916 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66109,-79.360667,"218,"#301 -170 SUMACH ST, Toronto, Ontario, M5A 0C3"","218 Sumach St, 301 170, Toronto, Toronto, ON, CA",,MapQuest,address
+43.785789,-79.451001,"221,"#102 -131 TORRESDALE AVE, Toronto, Ontario, M2R 3T1"","221 Torresdale Ave, 102 131, Toronto, Toronto, ON, CA",,MapQuest,address
+43.642852,-79.424301,"222,"#1505 -68 ABELL ST, Toronto, Ontario, M6J 0B1"","[84 - 98] Abell St, 1505 68, Toronto, Toronto, ON, CA",,MapQuest,street
+43.747284,-79.5645,"223,"#2032 -3033 FINCH AVE W, Toronto, Ontario, M9M 0A3"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.7442,-79.491022,"224,"#50 -20 INLET MEWS, Toronto, Ontario, M3M 2X7"","[4 - 98] Inlet Mews, 50 20, Toronto, Toronto, ON, CA",,MapQuest,street
+43.659915,-79.387165,"225,"#1603 -111 ELIZABETH ST, Toronto, Ontario, M5G 1P7"","225 Elizabeth St, 1603 111, Toronto, Toronto, ON, CA",,MapQuest,address
+43.639349,-79.416066,"227,"1110-100 Western Battery Rd, Toronto, ON, M6K 3S2"","[129 - 199] Western Battery Rd, 1110 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.765293,-79.493477,"229,"#4 -17 FOUR WINDS DR, Toronto, Ontario, M3J 2S8"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.662472,-79.378149,"230,"#408 -281 MUTUAL ST, Toronto, Ontario, M4Y 3C4"","[240 - 254] Mutual St, 408 281, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647964,-79.417168,"232,"#905 -1171 QUEEN ST W, Toronto, Ontario, M6J 0A5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.640472,-79.397766,"233,"#2008 -15 ICEBOAT TERR, Toronto, Ontario, M5V 4A5"","[21 - 99] Iceboat Terr, 2008 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.765372,-79.387844,"234,"#906 -2885 BAYVIEW AVE, Toronto, Ontario, M2K 0A3"","[2800 - 2816] Bayview Ave, 906 2885, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641535,-79.414387,"238,"#328 -954 KING ST W, Toronto, Ontario, M6K 3L9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.657372,-79.354553,"242,"#N220 -120 BAYVIEW AVE, Toronto, Ontario, M5A 3R7"","242 Bayview Ave, n220 120, Toronto, Toronto, ON, CA",,MapQuest,address
+43.777033,-79.348437,"243,"#35 -10 LEITH HILL RD, Toronto, Ontario, M2J 1Z2"","[33 - 99] Leith Hill Rd, 35 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.645409,-79.391996,"245,"#2606 -8 MERCER ST, Toronto, Ontario, M5V 0C4"","[59 - 99] Mercer St, 2606 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.661646,-79.385742,"246,"#3106 -38 GRENVILLE ST, Toronto, Ontario, M4Y 1A5"","[36 - 48] Grenville St, 3106 38, Toronto, Toronto, ON, CA",,MapQuest,street
+43.637619,-79.402754,"247,"#516 -21 GRAND MAGAZINE ST, Toronto, Ontario, M5V 1B5"","[67 - 99] Grand Magazine St, 516 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.817199,-79.209942,"249,"#55 -401 SEWELLS RD, Toronto, Ontario, M1B 5K6"","[391 - 441] Sewells Rd, 55 401, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650091,-79.387178,"252,"#222 -140 SIMCOE ST, Toronto, Ontario, M5H 4E9"","[160 - 168] Simcoe St, 222 140, Toronto, Toronto, ON, CA",,MapQuest,street
+43.665346,-79.377307,"253,"#PH4 -15 MAITLAND PL, Toronto, Ontario, M4Y 2X3"","[75 - 99] Maitland Pl, ph4 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.65088,-79.36576,"255,"726-109 Front  St E, Toronto, ON, M5A 4P7"","Front Street East, Toronto, ON, CA",,MapQuest,street
+43.66172,-79.383239,"256,"#915 -555 YONGE ST, Toronto, Ontario, M4Y 3A6"","[450 - 464] Yonge St, 915 555, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635844,-79.579513,"257,"#E24 -284 MILL RD, Toronto, Ontario, M9C 4W6"","257 Mill Rd, e24 284, Toronto, Toronto, ON, CA",,MapQuest,address
+43.652772,-79.353236,"260,"#319 -33 MILL ST, Toronto, Ontario, M5A 3R3"","260 Mill St, 319 33, Toronto, Toronto, ON, CA",,MapQuest,address
+43.6897,-79.341087,"262,"#1107 -280 DONLANDS AVE, Toronto, Ontario, M4J 0A3"","262 Donlands Ave, 1107 280, Toronto, Toronto, ON, CA",,MapQuest,address
+43.728822,-79.382845,"263,"#807 -830 LAWRENCE AVE W, Toronto, Ontario, M6A 1C3"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.788286,-79.451955,"264,"#608 -133 TORRESDALE AVE, Toronto, Ontario, M2R 3T2"","264 Torresdale Ave, 608 133, Toronto, Toronto, ON, CA",,MapQuest,address
+43.670384,-79.381702,"266,"#615 -35 HAYDEN ST, Toronto, Ontario, M4Y 3C3"","[80 - 198] Hayden St, 615 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.609961,-79.557859,"267,"#608 -235 SHERWAY GARDENS RD, Toronto, Ontario, M9C 0A2"","267 Sherway Gardens Rd, 608 235, Toronto, Toronto, ON, CA",,MapQuest,address
+43.701838,-79.316834,"268,"#203 -955 O'CONNOR DR, Toronto, Ontario, M4B 2S7"","[754 - 754] O'Connor Dr, 203 955, Toronto, Toronto, ON, CA",,MapQuest,street
+43.759869,-79.586093,"269,"#201 -61 MARKBROOK LANE, Toronto, Ontario, M9V 5E7"","[61 - 99] Markbrook Lane, 201 61, Toronto, Toronto, ON, CA",,MapQuest,street
+43.730778,-79.333836,"270,"#510 -120 DALLIMORE CIRC, Toronto, Ontario, M3C 4J1"","270 Dallimore Cir, 510 120, Toronto, Toronto, ON, CA",,MapQuest,address
+43.609983,-79.557731,"271,"#1806 -205 SHERWAY GARDENS RD, Toronto, Ontario, M9C 0A5"","271 Sherway Gardens Rd, 1806 205, Toronto, Toronto, ON, CA",,MapQuest,address
+43.737311,-79.434015,"273,"#435 -525 WILSON AVE, Toronto, Ontario, M3H 1V1"","273 Wilson Ave, 435 525, Toronto, Toronto, ON, CA",,MapQuest,address
+43.767532,-79.383056,"274,"#714 -2 REAN DR, Toronto, Ontario, M2K 3B8"","[22 - 98] Rean Dr, 714 2, Toronto, Toronto, ON, CA",,MapQuest,street
+43.7373,-79.434121,"275,"#313E -555 WILSON AVE, Toronto, Ontario, M3H 5Y6"","275 Wilson Ave, 313e 555, Toronto, Toronto, ON, CA",,MapQuest,address
+43.645128,-79.531754,"276,"#1501 -15 MICHAEL POWER PL, Toronto, Ontario, M9A 5G4"","[46 - 98] Michael Power Pl, 1501 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.779356,-79.282612,"277,"#2717 -181 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0K6"","277 Village Green Sq, 2717 181, Toronto, Toronto, ON, CA",,MapQuest,address
+43.79306,-79.339043,"278,"#1512 -5039 FINCH AVE E, Toronto, Ontario, M1S 5J9"","Scarborough, ON, CA",,MapQuest,ZIP_EXTENDED
+43.638538,-79.531232,"280,"#208 -8 FIELDWAY RD, Toronto, Ontario, M8Z 0C3"","[64 - 98] Fieldway Rd, 208 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.645128,-79.531754,"281,"#1006 -7 MICHAEL POWER PL, Toronto, Ontario, M9A 0A4"","[47 - 99] Michael Power Pl, 1006 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.769634,-79.197231,"282,"#2 -189 GALLOWAY RD, Toronto, Ontario, M1E 5H3"","282 Galloway Rd, 2 189, Toronto, Toronto, ON, CA",,MapQuest,address
+43.790889,-79.239365,"284,"#509 -39 KIMBERCROFT CRT, Toronto, Ontario, M1S 5B5"","[22 - 98] Kimbercroft Crt, 509 39, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652316,-79.37288,"286,"#1004 -50 LOMBARD ST, Toronto, Ontario, M5C 2X4"","[116 - 198] Lombard St, 1004 50, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64167,-79.425517,"289,"#206 -170 SUDBURY ST, Toronto, Ontario, M6J 0A1"","[157 - 199] Sudbury St, 206 170, Toronto, Toronto, ON, CA",,MapQuest,street
+43.772067,-79.261238,"290,"2531-125 Omni Dr, Toronto, ON, M1P 5A9"","[100 - 124] Omni Dr, 2531 125, Toronto, Toronto, ON, CA",,MapQuest,street
+43.610099,-79.557174,"291,"#704 -225 SHERWAY GARDENS RD, Toronto, Ontario, M9C 0A3"","291 Sherway Gardens Rd, 704 225, Toronto, Toronto, ON, CA",,MapQuest,address
+43.781298,-79.246706,"292,"#2506 -11 LEE CENTRE DR, Toronto, Ontario, M1H 3J5"","[32 - 98] Lee Centre Dr, 2506 11, Toronto, Toronto, ON, CA",,MapQuest,street
+43.693738,-79.273342,"293,"#320 -684 WARDEN AVE, Toronto, Ontario, M1L 4W4"","[347 - 385] Warden Ave, 320 684, Toronto, Toronto, ON, CA",,MapQuest,street
+43.768841,-79.18272,"296,"1006-121 Ling Rd, Toronto, ON, M1E 4Y2"","[138 - 198] Ling Rd, 1006 121, Toronto, Toronto, ON, CA",,MapQuest,street
+43.714261,-79.587029,"297,"#1009 -238 ALBION RD N, Toronto, Ontario, M9W 6A7"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.649204,-79.374343,"298,"#902 -8 COLBORNE ST, Toronto, Ontario, M5E 1E1"","[62 - 98] Colborne St, 902 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.749932,-79.27324,"299,"#2011 -2550 LAWRENCE AVE, Toronto, Ontario, M1P 4Z3"","Scarborough, ON, CA",,MapQuest,ZIP_EXTENDED
+43.743051,-79.218944,"300,"#914 -180 MARKHAM  RD, Toronto, Ontario, M1M 2Z9"","[190 - 192] Markham Rd, 914 180, Toronto, Toronto, ON, CA",,MapQuest,street
+43.725874,-79.253238,"301,"#2007 -5 GREYSTONE WALK DR, Toronto, Ontario, M1K 5J5"","[9 - 99] Greystone Walk Dr, 2007 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.806365,-79.229113,"302,"10 TAPSCOTT RD, Toronto, Ontario, M1B 3L9"","302 Tapscott Rd, 10, Toronto, Toronto, ON, CA",,MapQuest,address
+43.718077,-79.240336,"305,"#22 -7 BRIMLEY RD S, Toronto, Ontario, M1M 3W3"","[193 - 199] Brimley Rd S, 7 s, Toronto, Toronto, ON, CA",,MapQuest,street
+43.708445,-79.445625,"306,"#1106 -50 LOTHERTON PTWY, Toronto, Ontario, M6B 2G7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.641304,-79.397055,"307,"#402 -500 WELLINGTON ST W, Toronto, Ontario, M5V 1E3"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.680079,-79.398804,"309,"#1001 -170 AVENUE RD, Toronto, Ontario, M5R 0A4"","309 Avenue Rd, 1001 170, Toronto, Toronto, ON, CA",,MapQuest,address
+43.661004,-79.38595,"313,"#812 -889 BAY ST, Toronto, Ontario, M5S 3K5"","[801 - 801] Bay St, 812 889, Toronto, Toronto, ON, CA",,MapQuest,street
+43.653254,-79.49056,"314,"#1030 -1 OLD MILL DR, Toronto, Ontario, M6S 0A1"","[100 - 198] Old Mill Dr, 1030 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.668737,-79.386203,"316,"#2503 -110 CHARLES ST E, Toronto, Ontario, M4Y 1T5"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.696378,-79.396234,"317,"#1408 -2191 YONGE ST, Toronto, Ontario, M4S 3H8"","[1819 - 1819] Yonge St, 1408 2191, Toronto, Toronto, ON, CA",,MapQuest,street
+43.662304,-79.377283,"318,"#1005 -45 CARLTON ST, Toronto, Ontario, M5B 2H9"","[100 - 114] Carlton St, 1005 45, Toronto, Toronto, ON, CA",,MapQuest,street
+43.636557,-79.39978,"319,"#1307 -628 FLEET ST, Toronto, Ontario, M5V 1A8"","[501 - 579] Fleet St, 1307 628, Toronto, Toronto, ON, CA",,MapQuest,street
+43.643921,-79.389492,"320,"#1910 -300 FRONT ST W, Toronto, Ontario, M5V 0E9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.657543,-79.446589,"321,"#2 -1396 BLOOR ST W, Toronto, Ontario, M6P 4H6"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.766416,-79.396614,"322,"#1104 -30 GREENFIELD AVE, Toronto, Ontario, M2N 6N3"","322 Greenfield Ave, 1104 30, Toronto, Toronto, ON, CA",,MapQuest,address
+43.69767,-79.39047,"323,"206-194 Merton STREET, Toronto, ON, M4S 1A1"","194 Merton Street, Toronto, ON, CA",,MapQuest,address
+43.737404,-79.343605,"324,"#608 -1200 DON MILLS RD, Toronto, Ontario, M3B 3N8"","[1100 - 1114] Don Mills Rd, 608 1200, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642842,-79.392705,"325,"#510 -381 FRONT ST W, Toronto, Ontario, M5V 3R8"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.696522,-79.411744,"327,"#1011 -501 ST CLAIR AVE W, Toronto, Ontario, M5P 0A2"","ON, CA",,MapQuest,ZIP_EXTENDED
+43.654143,-79.361363,"328,"#214 -510 KING ST E, Toronto, Ontario, M5A 0E5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.647822,-79.396999,"329,"#404 -435 RICHMOND ST W, Toronto, Ontario, M5V 1X9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.681722,-79.391477,"330,"#1804 -1815 YONGE ST, Toronto, Ontario, M4T 2A4"","[1196 - 1212] Yonge St, 1804 1815, Toronto, Toronto, ON, CA",,MapQuest,street
+43.661177,-79.361346,"331,"#403 -1238 DUNDAS ST E, Toronto, Ontario, M4M 1S3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.705812,-79.393454,"332,"#420 -98 LILLIAN ST, Toronto, Ontario, M4S 0A5"","[160 - 198] Lillian St, 420 98, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652316,-79.37288,"333,"#201 -55 LOMBARD ST, Toronto, Ontario, M5C 2R7"","[111 - 199] Lombard St, 201 55, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624064,-79.480278,"335,"#LPH3604 -33 SHORE BREEZE DR, Toronto, Ontario, M8V 0G1"","[75 - 99] Shore Breeze Dr, lph3604 33, Toronto, Toronto, ON, CA",,MapQuest,street
+43.671579,-79.39312,"337,"#406 -21 SCOLLARD ST, Toronto, Ontario, M5R 1G1"","[127 - 199] Scollard St, 406 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.661004,-79.38595,"339,"#5306 -1080 BAY ST, Toronto, Ontario, M5S 0A5"","[801 - 801] Bay St, 5306 1080, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"342,"#2002 -70 FOREST MANOR RD, Toronto, Ontario, M2J 1G2"","[78 - 98] Forest Manor Rd, 2002 70, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638668,-79.418854,"343,"#1211 -150 EAST LIBERTY ST, Toronto, Ontario, M6K 3R5"","[173 - 199] E Liberty St, 1211 150, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647014,-79.403911,"344,"#1506 -27 BATHURST ST, Toronto, Ontario, M5V 2P1"","[178 - 178] Bathurst St, 1506 27, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649131,-79.393555,"345,"#1604 -125 PETER ST, Toronto, Ontario, M5V 2G9"","[143 - 199] Peter St, 1604 125, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638668,-79.418854,"346,"#1012 -85 EAST LIBERTY ST, Toronto, Ontario, M6K 0A2"","[170 - 198] E Liberty St, 1012 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.76348,-79.291103,"347,"#73 -1075 ELLESMERE RD, Toronto, Ontario, M1P 2W9"","[633 - 675] Ellesmere Rd, 73 1075, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642525,-79.382699,"349,"#PH15 -19 GRAND TRUNK CRES, Toronto, Ontario, M5J 3A3"","[39 - 99] Grand Trunk Cres, ph15 19, Toronto, Toronto, ON, CA",,MapQuest,street
+43.657655,-79.376959,"350,"#436 -155 DALHOUSIE ST, Toronto, Ontario, M5B 2P7"","[124 - 198] Dalhousie St, 436 155, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"351,"#1411 -62 FOREST MANOR RD, Toronto, Ontario, M2J 1M6"","[89 - 99] Forest Manor Rd, 1411 62, Toronto, Toronto, ON, CA",,MapQuest,street
+43.660898,-79.38591,"352,"#505 -909 BAY ST, Toronto, Ontario, M5S 1Z9"","[792 - 796] Bay St, 505 909, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642852,-79.424301,"353,"#638 -68 ABELL ST, Toronto, Ontario, M6J 0A2"","[89 - 99] Abell St, 638 68, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642852,-79.424301,"357,"#930 -68 ABELL ST, Toronto, Ontario, M6J 0A2"","[89 - 99] Abell St, 930 68, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649522,-79.375644,"359,"515-22 Leader Lane, Toronto, ON, M5E 0B2"","[25 - 99] Leader Lane, 515 22, Toronto, Toronto, ON, CA",,MapQuest,street
+43.640301,-79.398368,"361,"#4007 -85 QUEENS WHARF RD, Toronto, Ontario, M5V 0J9"","[167 - 199] Queens Wharf Rd, 4007 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654143,-79.361363,"363,"#414 -320 RICHMOND ST E, Toronto, Ontario, M5A 1P9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.698389,-79.385636,"365,"#305 -68 MERTON ST, Toronto, Ontario, M4S 1A1"","365 Merton St, 305 68, Toronto, Toronto, ON, CA",,MapQuest,address
+43.646245,-79.373532,"366,"#607 -71 FRONT  ST E, Toronto, Ontario, M5E 1T9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.643205,-79.405185,"367,"#1401 -78 TECUMSETH ST, Toronto, Ontario, M5V 0A9"","[65 - 65] Tecumseth St, 1401 78, Toronto, Toronto, ON, CA",,MapQuest,street
+43.771315,-79.286206,"371,"#101 -30 DUNDALK DR, Toronto, Ontario, M1P 4W1"","[169 - 199] Dundalk Dr, 101 30, Toronto, Toronto, ON, CA",,MapQuest,street
+43.765372,-79.387844,"372,"#1310 -2885 BAYVIEW AVE, Toronto, Ontario, M2K 0A3"","[2800 - 2816] Bayview Ave, 1310 2885, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650048,-79.480402,"373,"2302-15 Windermere Ave, Toronto, ON, M6S 5A2"","373 Windermere Ave, 2302 15, Toronto, Toronto, ON, CA",,MapQuest,address
+43.736525,-79.433817,"374,"#312 -3830 BATHURST ST, Toronto, Ontario, M3H 6C5"","[3736 - 3736] Bathurst St, 312 3830, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635604,-79.406755,"377,"#402 -231 FORT YORK BLVD, Toronto, Ontario, M5V 1B2"","[293 - 299] Fort York Blvd, 402 231, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780764,-79.347135,"378,"#PH9 -30 HERONS HILL WAY, Toronto, Ontario, M2J 0A7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.736181,-79.439083,"379,"#130 -525 WILSON AVE W, Toronto, Ontario, M3H 1V1"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.658972,-79.39342,"380,"#145 -71 MCCAUL ST, Toronto, Ontario, M5T 2X1"","[258 - 298] McCaul St, 145 71, Toronto, Toronto, ON, CA",,MapQuest,street
+43.646368,-79.382905,"381,"#5109 -12 YORK ST, Toronto, Ontario, M5J 0A9"","[51 - 69] York St, 5109 12, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654143,-79.361363,"384,"#1602 -460 ADELAIDE ST E, Toronto, Ontario, M5A 1N6"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.636174,-79.47199,"387,"#2114 -103 THE QUEENSWAY AVE, Toronto, Ontario, M6S 5B3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.769544,-79.180144,"388,"#11 -138 HOMESTEAD RD, Toronto, Ontario, M1E 3S2"","[174 - 198] Homestead Rd, 11 138, Toronto, Toronto, ON, CA",,MapQuest,street
+43.73448,-79.44638,"389,"434-525 Wilson Ave, Toronto, ON, M3H 0A7"","525 Wilson Avenue, North York, ON, CA",,MapQuest,address
+43.635851,-79.403472,"390,"#2210 -600 FLEET ST, Toronto, Ontario, M5V 1B7"","[500 - 594] Fleet St, 2210 600, Toronto, Toronto, ON, CA",,MapQuest,street
+43.767692,-79.371483,"391,"#2503 -121 MCMAHON DR, Toronto, Ontario, M2K 2X9"","[121 - 199] McMahon Dr, 2503 121, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780327,-79.243913,"392,"#1132 -68 CORPORATE DR, Toronto, Ontario, M1H 3H3"","[230 - 298] Corporate Dr, 1132 68, Toronto, Toronto, ON, CA",,MapQuest,street
+43.73737,-79.343419,"393,"206-1210 Don Mills Rd, Toronto, ON, M3B 3N9"","[1107 - 1119] Don Mills Rd, 206 1210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652795,-79.372874,"394,"#1007 -115 RICHMOND ST E, Toronto, Ontario, M5C 3H6"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.777937,-79.28276,"395,"#807 -151 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0K5"","395 Village Green Sq, 807 151, Toronto, Toronto, ON, CA",,MapQuest,address
+43.638691,-79.537137,"396,"#1231 -35 VIKING LANE, Toronto, Ontario, M9B 0A2"","[42 - 198] Viking Lane, 1231 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.79708,-79.320154,"397,"#208 -55 HUNTINGDALE BLVD, Toronto, Ontario, M1W 2N9"","[291 - 299] Huntingdale Blvd, 208 55, Toronto, Toronto, ON, CA",,MapQuest,street
+43.763494,-79.500021,"398,"#86 -37 FOUR WINDS DR, Toronto, Ontario, M3J 1K7"","[20 - 20] Four Winds Dr, 86 37, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652795,-79.372874,"401,"#804 -115 RICHMOND ST E, Toronto, Ontario, M5C 3H6"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.780764,-79.347135,"402,"#215 -55 ANN O'REILLY RD, Toronto, Ontario, M2J 0E1"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.757202,-79.404782,"403,"#1724 -80 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 7E3"","[101 - 199] Harrison Garden Blvd, 1724 80, Toronto, Toronto, ON, CA",,MapQuest,street
+43.61942,-79.521293,"404,"1610-15 Zorra STREET, Toronto, ON, M8Z 4Z6"","[46 - 98] Zorra St, 1610 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.668825,-79.383952,"405,"3303-45 Charles St E, Toronto, ON, M4Y 1S2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.735925,-79.440981,"406,"#427 -525 WILSON AVE, Toronto, Ontario, M3H 1V1"","406 Wilson Ave, 427 525, Toronto, Toronto, ON, CA",,MapQuest,address
+43.668825,-79.383952,"407,"#4705 -45 CHARLES ST E, Toronto, Ontario, M4Y 1S2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.678718,-79.506485,"409,"#1607 -260 SCARLETT RD, Toronto, Ontario, M6N 4X6"","[281 - 299] Scarlett Rd, 1607 260, Toronto, Toronto, ON, CA",,MapQuest,street
+43.610071,-79.557297,"413,"#1006 -215 SHERWAY GARDENS RD, Toronto, Ontario, M9C 0A4"","[275 - 299] Sherway Gardens Rd, 1006 215, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639349,-79.416066,"414,"713-80 Western Battery Rd, Toronto, ON, M6K 3S1"","[98 - 198] Western Battery Rd, 713 80, Toronto, Toronto, ON, CA",,MapQuest,street
+43.811446,-79.226754,"416,"144-90 Wingarden Crt, Toronto, ON, M1B 2K3"","[70 - 198] Wingarden Crt, 144 90, Toronto, Toronto, ON, CA",,MapQuest,street
+43.771315,-79.286206,"418,"#1503 -120 DUNDALK DR, Toronto, Ontario, M1P 4V9"","[168 - 198] Dundalk Dr, 1503 120, Toronto, Toronto, ON, CA",,MapQuest,street
+43.726729,-79.480005,"419,"#831 -15 JAMES FINLAY WAY, Toronto, Ontario, M3M 0B3"","[11 - 99] James Finlay Way, 831 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.712273,-79.324457,"420,"#304 -15 VICORA LINKWAY WAY, Toronto, Ontario, M3C 1A9"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.723103,-79.44826,"421,"#844 -830 LAWRENCE AVE W, Toronto, Ontario, M6A 0B6"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.809717,-79.306186,"423,"#208 -45 SILVER SPRINGS BLVD, Toronto, Ontario, M1V 1M9"","[373 - 399] Silver Springs Blvd, 208 45, Toronto, Toronto, ON, CA",,MapQuest,street
+43.809808,-79.265487,"424,"#902 -30 THUNDER GRVE, Toronto, Ontario, M1V 4A3"","Scarborough, ON, CA",,MapQuest,ZIP_EXTENDED
+43.766803,-79.288782,"425,"1214-8 Mondeo Dr, Toronto, ON, M1P 5C7"","[49 - 199] Mondeo Dr, 1214 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.696299,-79.291855,"426,"1201-1 Massey Sq, Toronto, ON, M4C 5L4"","[42 - 98] Massey Sq, 1201 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.601677,-79.54008,"427,"#116 -3841 LAKE SHORE BLVD W, Toronto, Ontario, M8W 1R2"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.809717,-79.306186,"428,"#212 -25 SILVER SPRINGS BLVD, Toronto, Ontario, M1V 1M9"","[346 - 398] Silver Springs Blvd, 212 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649088,-79.426785,"429,"#720 -36 LISGAR ST, Toronto, Ontario, M6J 3G2"","[285 - 399] Lisgar St, 720 36, Toronto, Toronto, ON, CA",,MapQuest,street
+43.7149,-79.260882,"432,"#312 -800 KENNEDY RD, Toronto, Ontario, M1K 2C9"","432 Kennedy Rd, 312 800, Toronto, Toronto, ON, CA",,MapQuest,address
+43.809954,-79.220608,"433,"#1505 -410 MCLEVIN AVE, Toronto, Ontario, M1B 5J5"","433 McLevin Ave, 1505 410, Toronto, Toronto, ON, CA",,MapQuest,address
+43.661646,-79.385742,"438,"6208-7 Grenville St, Toronto, ON, M4Y 1A1"","[36 - 48] Grenville St, 6208 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.71174,-79.39191,"442,"208-900 Mount Pleasant Rd, Toronto, ON, M4P 3J9"","900 Mount Pleasant Road, Toronto, ON, CA",,MapQuest,address
+43.602383,-79.502229,"443,"#TH27 -120 TWENTY FOURTH ST, Toronto, Ontario, M8V 3P1"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.775124,-79.412706,"444,"#819 -500 DORIS AVE, Toronto, Ontario, M2N 0C1"","444 Doris Ave, 819 500, Toronto, Toronto, ON, CA",,MapQuest,address
+44.01717,-116.97901,"445,"#GV 213 -17 BARBERRY PL, Toronto, Ontario, M2K 3E2"","445 College Green Place, Ontario, OR, US",,MapQuest,address
+43.772539,-79.389493,"446,"#1011 -8 HILLCREST AVE, Toronto, Ontario, M2N 6Y6"","446 Hillcrest Ave, 1011 8, Toronto, Toronto, ON, CA",,MapQuest,address
+43.669113,-79.383989,"448,"#1202 -42 CHARLES ST E, Toronto, Ontario, M4Y 1T4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.704967,-79.375648,"449,"#421 -1 BELSIZE DR, Toronto, Ontario, M4S 0B9"","449 Belsize Dr, 421 1, Toronto, Toronto, ON, CA",,MapQuest,address
+43.648322,-79.490755,"450,"3-516 Riverside DR, Toronto, ON, M6S 4B5"","450 Riverside Dr, 3 516, Toronto, Toronto, ON, CA",,MapQuest,address
+43.640447,-79.395824,"451,"#1001 -10 CAPREOL CRT, Toronto, Ontario, M5V 4B3"","[1 - 99] Capreol Crt, 1001 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639888,-79.398178,"453,"#746 -151 DAN LECKIE WAY, Toronto, Ontario, M5V 0B4"","[151 - 199] Dan Leckie Way, 746 151, Toronto, Toronto, ON, CA",,MapQuest,street
+43.751611,-79.182254,"454,"#45 -15 GUILDWOOD PKWY, Toronto, Ontario, M1E 4Y8"","454 Guildwood Pky, 45 15, Toronto, Toronto, ON, CA",,MapQuest,address
+43.601677,-79.54008,"455,"210-2285 Lake Shore Blvd W, Toronto, ON, M8W 1N2"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.780764,-79.347135,"458,"#527 -50 ANN O'REILLY RD, Toronto, Ontario, M2J 0C9"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.775519,-79.347143,"463,"#2205 -3300 DON MILLS RD, Toronto, Ontario, M2J 4X7"","[2501 - 2501] Don Mills Rd, 2205 3300, Toronto, Toronto, ON, CA",,MapQuest,street
+43.617102,-79.493628,"464,"210-11 Superior Ave, Toronto, ON, M8V 0A7"","[96 - 98] Superior Ave, 210 11, Toronto, Toronto, ON, CA",,MapQuest,street
+43.740179,-79.59665,"465,"#1107 -45 SILVERSTONE DR, Toronto, Ontario, M9V 4B1"","465 Silverstone Dr, 1107 45, Toronto, Toronto, ON, CA",,MapQuest,address
+43.717103,-79.312729,"466,"417-40 Sunrise Ave, Toronto, ON, M4A 2R4"","[148 - 198] Sunrise Ave, 417 40, Toronto, Toronto, ON, CA",,MapQuest,street
+43.742691,-79.586119,"468,"#507 -2901 KIPLING AVE N, Toronto, Ontario, M9V 5E5"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.72333,-79.41166,"469,"216-800 Lawrence Ave W, Toronto, ON, M6A 1C3"","216 Lawrence Avenue West, Toronto, ON, CA",,MapQuest,address
+43.698924,-79.46361,"470,"#809 -940 CALEDONIA RD, Toronto, Ontario, M6B 3Y4"","[698 - 698] Caledonia Rd, 809 940, Toronto, Toronto, ON, CA",,MapQuest,street
+43.696299,-79.291855,"471,"2702-5 Massey Sq, Toronto, ON, M4C 5L6"","[43 - 99] Massey Sq, 2702 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.688739,-79.402284,"472,"#1304 -150 HEATH ST, Toronto, Ontario, M4V 2Y4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.653498,-79.426359,"473,"#405 -41 DOVERCOURT RD, Toronto, Ontario, M6J 3C2"","[427 - 431] Dovercourt Rd, 405 41, Toronto, Toronto, ON, CA",,MapQuest,street
+43.756451,-79.409723,"476,"#412 -5444 YONGE ST, Toronto, Ontario, M2N 6J4"","[4500 - 4576] Yonge St, 412 5444, Toronto, Toronto, ON, CA",,MapQuest,street
+43.771023,-79.416622,"479,"#2203 -503 BEECROFT RD, Toronto, Ontario, M2N 0A2"","[501 - 501] Beecroft Rd, 2203 503, Toronto, Toronto, ON, CA",,MapQuest,street
+43.768892,-79.389433,"480,"#1710 -18 SPRING GARDEN AVE, Toronto, Ontario, M2N 3G2"","[398 - 402] Spring Garden Ave, 1710 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.659965,-79.361638,"481,"#602 -55 REGENT PARK BLVD, Toronto, Ontario, M5A 0C2"","[9 - 99] Regent Park Blvd, 602 55, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780873,-79.418923,"484,"#2805 -15 GREENVIEW AVE, Toronto, Ontario, M2M 4M7"","[40 - 98] Greenview Ave, 2805 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.657167,-79.34044,"485,"#403 -747 QUEEN ST E, Toronto, Ontario, M4M 1H3"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.638691,-79.537137,"487,"#1202 -15 VIKING LANE, Toronto, Ontario, M9B 0A4"","[37 - 99] Viking Lane, 1202 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654143,-79.361363,"488,"#2711 -181 DUNDAS ST E, Toronto, Ontario, M5A 0N5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.73402,-79.449923,"489,"#904W -565 WILSON AVE, Toronto, Ontario, M3H 5Y6"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.647619,-79.383428,"490,"#2812 -14 YORK ST, Toronto, Ontario, M5J 2Z2"","[78 - 82] York St, 2812 14, Toronto, Toronto, ON, CA",,MapQuest,street
+43.785013,-79.400602,"492,"#511 -7 BISHOP AVE, Toronto, Ontario, M2M 4J4"","[200 - 298] Bishop Ave, 511 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.657708,-79.378338,"495,"#2001 -159 DUNDAS ST E, Toronto, Ontario, M5B 1E4"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.646245,-79.373532,"496,"#306 -12 YONGE ST S, Toronto, Ontario, M5E 1R4"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.60804,-79.499721,"498,"#721 -2267 LAKE SHORE BLVD, Toronto, Ontario, M8V 3X2"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.725418,-79.340739,"499,"#305 -5 VICORA LINKWAY WAY, Toronto, Ontario, M3C 1A4"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.769604,-79.366372,"500,"#1002 -2756 OLD LESLIE ST, Toronto, Ontario, M2K 0A9"","[2700 - 2728] Old Leslie St, 1002 2756, Toronto, Toronto, ON, CA",,MapQuest,street
+43.682853,-79.511198,"502,"#505 -35 FONTENAY CRT, Toronto, Ontario, M9A 0C4"","[18 - 98] Fontenay Crt, 505 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.778543,-79.282999,"503,"#702 -255 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0L3"","[315 - 399] Village Green Sq, 702 255, Toronto, Toronto, ON, CA",,MapQuest,street
+43.7881,-79.154872,"504,"#25 -23 ISLAND RD, Toronto, Ontario, M1C 0E4"","Scarborough, Toronto, ON, CA",,MapQuest,postcode
+43.816214,-79.323542,"507,"#1607 -255 BAMBURGH CIRC, Toronto, Ontario, M1W 3T6"","[359 - 399] Bamburgh Cir, 1607 255, Toronto, Toronto, ON, CA",,MapQuest,street
+43.623027,-79.481088,"508,"#4608 -2200 LAKE SHORE BLVD, Toronto, Ontario, M8V 1A4"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.77074,-79.389035,"509,"#2009 -23 HOLLYWOOD AVE, Toronto, Ontario, M2N 7L8"","[417 - 499] Hollywood Ave, 2009 23, Toronto, Toronto, ON, CA",,MapQuest,street
+43.790448,-79.353208,"510,"#802 -260 SENECA HILL DR, Toronto, Ontario, M2J 4S6"","510 Seneca Hill Dr, 802 260, Toronto, Toronto, ON, CA",,MapQuest,address
+43.805299,-79.179981,"515,"#618 -20 DEAN PARK RD, Toronto, Ontario, M1B 3G9"","515 Dean Park Rd, 618 20, Toronto, Toronto, ON, CA",,MapQuest,address
+43.774634,-79.344008,"516,"#2603 -66 FOREST MANOR RD, Toronto, Ontario, M2J 1M6"","[78 - 98] Forest Manor Rd, 2603 66, Toronto, Toronto, ON, CA",,MapQuest,street
+43.689267,-79.29602,"519,"#1111 -8 TRENT AVE, Toronto, Ontario, M4C 5C6"","[41 - 99] Trent Ave, 1111 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746838,-79.56856,"520,"#318 -2835 ISLINGTON AVE, Toronto, Ontario, M9L 2K2"","[2784 - 2784] Islington Ave, 318 2835, Toronto, Toronto, ON, CA",,MapQuest,street
+43.766803,-79.288782,"522,"#1131 -18 MONDEO DR, Toronto, Ontario, M1P 5C8"","[48 - 198] Mondeo Dr, 1131 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.77309,-79.258929,"524,"#2206 -50 BRIAN HARRISON WAY, Toronto, Ontario, M1P 5J4"","[30 - 98] Brian Harrison Way, 2206 50, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774502,-79.252885,"525,"#511 -25 TOWN CENTRE CRT, Toronto, Ontario, M1P 0B4"","[61 - 99] Town Centre Crt, 511 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.660834,-79.378099,"526,"#1506 -89 MCGILL ST, Toronto, Ontario"","[90 - 198] McGill St, 1506 89, Toronto, Toronto, ON, CA",,MapQuest,street
+43.78674,-79.196322,"527,"#2020 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2"","[193 - 199] Mornelle Crt, 2020 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.713643,-79.386696,"530,"#2410 -101 ERSKINE  AVE, Toronto, Ontario, M4P 0C5"","[306 - 398] Erskine Ave, 2410 101, Toronto, Toronto, ON, CA",,MapQuest,street
+43.673669,-79.410389,"531,"#2 -536 BRUNSWICK AVE, Toronto, Ontario, M5R 2Z5"","531 Brunswick Ave, 2 536, Toronto, Toronto, ON, CA",,MapQuest,address
+43.641058,-79.376737,"532,"#1404 -65 HARBOUR SQ, Toronto, Ontario, M5J 2L4"","[44 - 98] Harbour Sq, 1404 65, Toronto, Toronto, ON, CA",,MapQuest,street
+43.681522,-79.396477,"533,"#TH122 -10 WALKER AVE, Toronto, Ontario, M4V 1G2"","[119 - 199] Walker Ave, th122 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64473,-79.403795,"534,"915D ADELAIDE ST W, Toronto, Ontario, M6J 3T2"","[562 - 606] Adelaide St W, 5d w, Toronto, Toronto, ON, CA",,MapQuest,street
+43.64974,-79.374317,"535,"#605 -35 CHURCH ST, Toronto, Ontario, M5E 1T3"","[45 - 49] Church St, 605 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641304,-79.397055,"537,"#402 -608 RICHMOND ST W, Toronto, Ontario, M5V 0N9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.694756,-79.367687,"538,"#611 -1888 BAYVIEW AVE, Toronto, Ontario, M4G 3E4"","[900 - 940] Bayview Ave, 611 1888, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649055,-79.371283,"539,"#2505 -15 LOWER JARVIS ST, Toronto, Ontario, M5E 0C4"","[141 - 151] Lower Jarvis St, 2505 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.646508,-79.379211,"541,"#302 -228 QUEENS QUAY W, Toronto, Ontario, M5J 2X1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.666986,-79.390739,"542,"##1703 -65 ST MARY ST, Toronto, Ontario, M5S 0A6"","[98 - 98] St Mary St, 1703 65, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635529,-79.40165,"543,"#2107 -90 STADIUM RD, Toronto, Ontario, M5V 3W5"","[123 - 199] Stadium Rd, 2107 90, Toronto, Toronto, ON, CA",,MapQuest,street
+43.663044,-79.378636,"544,"#3712 -85 WOOD ST, Toronto, Ontario, M4Y 0E8"","[94 - 94] Wood St, 3712 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"546,"#3406 -70 FOREST MANOR RD, Toronto, Ontario, M2J 1M6"","[78 - 98] Forest Manor Rd, 3406 70, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642525,-79.382699,"547,"#2909 -19 GRAND TRUNK CRES, Toronto, Ontario, M5J 3A3"","[39 - 99] Grand Trunk Cres, 2909 19, Toronto, Toronto, ON, CA",,MapQuest,street
+43.667789,-79.376385,"549,"#2204 -120 HOMEWOOD AVE, Toronto, Ontario, M4Y 2J3"","[151 - 151] Homewood Ave, 2204 120, Toronto, Toronto, ON, CA",,MapQuest,street
+43.60804,-79.499721,"550,"#11 -3062 LAKE SHORE BLVD W, Toronto, Ontario, M8V 4C9"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.638538,-79.531232,"551,"#206 -2 FIELDWAY RD, Toronto, Ontario, M8Z 0B9"","[73 - 99] Fieldway Rd, 206 2, Toronto, Toronto, ON, CA",,MapQuest,street
+43.648464,-79.376191,"552,"#2203 -1 SCOTT ST, Toronto, Ontario, M5E 1A1"","[24 - 98] Scott St, 2203 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.65582,-79.35796,"553,"#319 -510 KING ST, Toronto, Ontario, M5A 1M1"","553 King St E, 9 510, Toronto, Toronto, ON, CA",,MapQuest,address
+43.777814,-79.335149,"554,"58 BARDS  WALKWAY, Toronto, Ontario, M2J 4T9"","[54 - 98] Bards Walkway, 58, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635604,-79.406755,"556,"#1122 -231 FORT YORK BLVD, Toronto, Ontario, M5V 1B2"","[298 - 298] Fort York Blvd, 1122 231, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638668,-79.418854,"557,"#1205 -51 EAST LIBERTY ST, Toronto, Ontario, M6K 3P8"","[173 - 199] E Liberty St, 1205 51, Toronto, Toronto, ON, CA",,MapQuest,street
+43.72506,-79.415281,"559,"#517 -40 SYLVAN VALLEY WAY, Toronto, Ontario, M5M 4M3"","[87 - 99] Sylvan Valleyway, "#517-40, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639079,-79.419781,"560,"#103 -5 HANNA AVE, Toronto, Ontario, M6K 1W8"","[38 - 98] Hanna Ave, 103 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.675358,-79.403508,"561,"#206 -212 ST GEORGE ST, Toronto, Ontario, M5R 2N8"","[323 - 399] St. George St, 206 212, Toronto, Toronto, ON, CA",,MapQuest,street
+43.78805,-79.35543,"562,"129 RUSTY CREST WAY, Toronto, Ontario, M2J 2Y4"","129 Rusty Crestway, North York, ON, CA",,MapQuest,address
+43.635604,-79.406755,"564,"#1163 -209 FORT YORK BLVD, Toronto, Ontario, M5V 4A1"","[298 - 298] Fort York Blvd, 1163 209, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642014,-79.410645,"566,"#409 -15 STAFFORD ST, Toronto, Ontario, M5V 3X6"","[30 - 98] Stafford St, 409 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.671275,-79.383284,"567,"#617 -825 CHURCH ST, Toronto, Ontario, M4W 3Z4"","[659 - 665] Church St, 617 825, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624129,-79.489114,"568,"#305 -190 MANITOBA ST, Toronto, Ontario, M8Y 3Y8"","[302 - 398] Manitoba St, 305 190, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649131,-79.393555,"570,"##1112 -101 PETER ST, Toronto, Ontario, M5V 0G6"","[150 - 198] Peter St, 1112 101, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624064,-79.480278,"571,"#2604 -33 SHORE BREEZE DR, Toronto, Ontario, M8V 0G1"","[75 - 99] Shore Breeze Dr, 2604 33, Toronto, Toronto, ON, CA",,MapQuest,street
+43.65569,-79.389646,"572,"#1404 -210 SIMCOE ST, Toronto, Ontario, M5T 0A9"","[272 - 398] Simcoe St, 1404 210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757202,-79.404782,"573,"#1111 -28 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 7B5"","[101 - 199] Harrison Garden Blvd, 1111 28, Toronto, Toronto, ON, CA",,MapQuest,street
+43.664342,-79.364726,"574,"#1510 -225 SACKVILLE ST, Toronto, Ontario, M5A 0B9"","[314 - 348] Sackville St, 1510 225, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757202,-79.404782,"576,"#817 -100 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 0C2"","[100 - 198] Harrison Garden Blvd, 817 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647157,-79.39853,"577,"#401 -23 BRANT ST, Toronto, Ontario, M5V 2L5"","[61 - 99] Brant St, 401 23, Toronto, Toronto, ON, CA",,MapQuest,street
+43.712153,-79.390096,"578,"1601-161 Roehampton, Toronto, ON, M4P 0C8"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.647751,-79.39084,"580,"#903 -295 ADELAIDE ST W, Toronto, Ontario, M5V 1P7"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.642525,-79.382699,"581,"#3308 -19 GRAND TRUNK CRES, Toronto, Ontario, M5J 3A3"","[39 - 99] Grand Trunk Cres, 3308 19, Toronto, Toronto, ON, CA",,MapQuest,street
+43.78113,-79.444794,"586,"#1407 -100 ANTIBES DR, Toronto, Ontario, M2R 3N1"","586 Antibes Dr, 1407 100, Toronto, Toronto, ON, CA",,MapQuest,address
+43.637107,-79.403827,"587,"#1504 -35 BASTION ST, Toronto, Ontario, M5V 0C2"","[19 - 99] Bastion St, 1504 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638668,-79.418854,"588,"#101 -85 EAST LIBERTY ST, Toronto, Ontario, M6K 0A2"","[170 - 198] E Liberty St, 101 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635604,-79.406755,"590,"#708 -231 FORT YORK BLVD, Toronto, Ontario, M5V 1B2"","[298 - 298] Fort York Blvd, 708 231, Toronto, Toronto, ON, CA",,MapQuest,street
+43.642578,-79.393452,"591,"#209 -397 FRONT ST W, Toronto, Ontario, M5V 3S1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.784167,-79.399812,"592,"#208 -8 PEMBERTON AVE, Toronto, Ontario, M2M 4K8"","[234 - 298] Pemberton Ave, 208 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.77309,-79.258929,"593,"#1202 -50 BRIAN HARRISON WAY, Toronto, Ontario, M1P 5J4"","[31 - 99] Brian Harrison Way, 1202 50, Toronto, Toronto, ON, CA",,MapQuest,street
+43.635604,-79.406755,"594,"#303 -231 FORT YORK BLVD, Toronto, Ontario, M5V 1B2"","[298 - 298] Fort York Blvd, 303 231, Toronto, Toronto, ON, CA",,MapQuest,street
+43.729859,-79.328426,"597,"#3001 -7 CONCORDE PL, Toronto, Ontario, M3C 3N4"","[5 - 99] Concorde Pl, 3001 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.766803,-79.288782,"600,"#228 -18 MONDEO DR, Toronto, Ontario, M1P 5C8"","[48 - 198] Mondeo Dr, 228 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.63955,-79.563884,"601,"#2103 -6 EVA RD, Toronto, Ontario, M9C 0B1"","[1 - 99] Eva Rd, 2103 6, Toronto, Toronto, ON, CA",,MapQuest,street
+43.711498,-79.330105,"602,"#121 -25 SUNNY GLEN WAY, Toronto, Ontario, M3C 2Z5"","[56 - 98] Sunny Glenway, "#121-25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66585,-79.386487,"604,"#2104 -5 ST JOSEPH ST, Toronto, Ontario, M4Y 0B6"","[16 - 44] Saint Joseph St, 2104 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.655424,-79.390719,"606,"305-96 St Patrick STREET, Toronto, ON, M5T 1V2"","[168 - 298] St Patrick St, 305 96, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780764,-79.347135,"608,"#1501 -2015 SHEPPARD AVE, Toronto, Ontario, M2J 0B3"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.797061,-79.305483,"610,"#112 -270 TIMBERBANK BLVD, Toronto, Ontario, M1W 2M1"","[332 - 398] Timberbank Blvd, 112 270, Toronto, Toronto, ON, CA",,MapQuest,street
+43.651774,-79.553262,"611,"#2002 -20 THOMAS RILEY RD, Toronto, Ontario, M9B 0C3"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.638668,-79.418854,"612,"#510 -51 EAST LIBERTY ST, Toronto, Ontario, M6K 3P8"","[170 - 198] E Liberty St, 510 51, Toronto, Toronto, ON, CA",,MapQuest,street
+43.767692,-79.371483,"613,"#1010 -121 MCMAHON DR, Toronto, Ontario, M2K 2X9"","[121 - 199] McMahon Dr, 1010 121, Toronto, Toronto, ON, CA",,MapQuest,street
+43.759456,-79.332687,"615,"#806 -18 VALLEY WOODS RD, Toronto, Ontario, M3A 0A1"","[113 - 199] Valley Woods Rd, 806 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"616,"#1003 -56 FOREST MANOR RD, Toronto, Ontario, M2J 1M1"","[78 - 98] Forest Manor Rd, 1003 56, Toronto, Toronto, ON, CA",,MapQuest,street
+43.723103,-79.44826,"617,"#840 -36 VIA BAGNATO AVE, Toronto, Ontario, M6A 0B7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.646385,-79.394497,"618,"#910 -25 OXLEY ST, Toronto, Ontario, M5V 2J5"","[14 - 98] Oxley St, 910 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639359,-79.410194,"619,"#803 -30 ORDNANCE ST, Toronto, Ontario, M6K 1A2"","[23 - 99] Ordnance St, 803 30, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746735,-79.284551,"621,"#313 -1328 BIRCHMOUNT RD, Toronto, Ontario, M1R 0B6"","[1238 - 1238] Birchmount Rd, 313 1328, Toronto, Toronto, ON, CA",,MapQuest,street
+43.73927,-79.281508,"622,"#2103 -1328 BIRCHMOUNT RD, Toronto, Ontario, M1R 0B6"","[1140 - 1140] Birchmount Rd, 2103 1328, Toronto, Toronto, ON, CA",,MapQuest,street
+43.684059,-79.518942,"623,"#1202 -61 RICHVIEW RD, Toronto, Ontario, M9A 4M8"","[57 - 61] Richview Rd, 1202 61, Toronto, Toronto, ON, CA",,MapQuest,street
+43.772067,-79.261238,"624,"#307 -115 OMNI DR, Toronto, Ontario, M1P 5B4"","[100 - 124] Omni Dr, 307 115, Toronto, Toronto, ON, CA",,MapQuest,street
+43.713643,-79.386696,"628,"#1411 -101 ERSKINE AVE, Toronto, Ontario, M4P 0C5"","[306 - 398] Erskine Ave, 1411 101, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780038,-79.415707,"632,"#1308 -5740 YONGE ST, Toronto, Ontario, M2M 0B1"","[5642 - 5676] Yonge St, 1308 5740, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652277,-79.551904,"633,"#1105 -9 VALHALLA INN DR, Toronto, Ontario, M9B 0B2"","ON, CA",,MapQuest,ZIP_EXTENDED
+43.763632,-79.339159,"634,"#1104 -18 GRAYDON HALL DR, Toronto, Ontario, M3A 0A4"","[204 - 298] Graydon Hall Dr, 1104 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.776058,-79.255206,"635,"#806 -83 BOROUGH DR, Toronto, Ontario, M1P 5E4"","[355 - 399] Borough Dr, 806 83, Toronto, Toronto, ON, CA",,MapQuest,street
+43.725418,-79.340739,"636,"#902 -99 THE DONWAY W RD W, Toronto, Ontario, M3C 0N8"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.723011,-79.448522,"638,"#1417 -160 FLEMINGTON RD, Toronto, Ontario, M6A 0A9"","[150 - 198] Flemington Rd, 1417 160, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757202,-79.404782,"642,"#1711 -18 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 7J7"","[100 - 198] Harrison Garden Blvd, 1711 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.651441,-79.369638,"643,"#604 -205 FREDERICK ST, Toronto, Ontario, M5A 4V3"","[183 - 299] Frederick St, 604 205, Toronto, Toronto, ON, CA",,MapQuest,street
+43.765912,-79.519509,"646,"#66 -79 DRIFTWOOD AVE, Toronto, Ontario, M3N 2M7"","[482 - 498] Driftwood Ave, 66 79, Toronto, Toronto, ON, CA",,MapQuest,street
+43.725874,-79.253238,"647,"#805 -5 GREYSTONE WALK DR, Toronto, Ontario, M1K 5J5"","[9 - 99] Greystone Walk Dr, 805 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.702796,-79.350748,"648,"#314 -1 LEASIDE PARK DR, Toronto, Ontario, M4H 1R1"","[12 - 98] Leaside Park Dr, 314 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.653456,-79.373755,"651,"#505 -127 QUEEN ST E, Toronto, Ontario, M5C 1S3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.767692,-79.371483,"652,"#2608 -115 MCMAHON DR, Toronto, Ontario, M2K 0E3"","[120 - 198] McMahon Dr, 2608 115, Toronto, Toronto, ON, CA",,MapQuest,street
+43.750004,-79.267902,"653,"#408 -101 PRUDENTIAL DR, Toronto, Ontario, M1P 4S5"","[165 - 399] Prudential Dr, 408 101, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746378,-79.622008,"656,"#505 -6 HUMBERLINE DR, Toronto, Ontario, M9W 6X8"","[400 - 498] Humberline Dr, 505 6, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"657,"#704 -20 FOREST MANOR RD, Toronto, Ontario, M2J 1M2"","[89 - 99] Forest Manor Rd, 704 20, Toronto, Toronto, ON, CA",,MapQuest,street
+43.744384,-79.272968,"658,"#1112 -1950 KENNEDY RD, Toronto, Ontario, M1P 4S9"","[954 - 994] Kennedy Rd, 1112 1950, Toronto, Toronto, ON, CA",,MapQuest,street
+43.734138,-79.449711,"662,"#132 -525 WILSON AVE, Toronto, Ontario, M3H 1V1"","[550 - 568] Wilson Ave, 132 525, Toronto, Toronto, ON, CA",,MapQuest,street
+43.674543,-79.394579,"665,"#502 -128 HAZELTON AVE, Toronto, Ontario, M5R 2E5"","[107 - 199] Hazelton Ave, 502 128, Toronto, Toronto, ON, CA",,MapQuest,street
+43.6428,-79.401583,"666,"#1302 -552 WELLINGTON ST W, Toronto, Ontario, M5V 2V4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.686553,-79.401861,"667,"1202-155 St Clair WEST, Toronto, ON, M4V 0A1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.64536,-79.362705,"669,"#908 -1 EDGEWATER DR, Toronto, Ontario, M5A 0L1"","[1 - 99] Edgewater Dr, 908 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.71106,-79.37717,"670,"#PH801 -1801 BAYVIEW AVE, Toronto, Ontario, M4G 4K2"","Bayview Avenue & Eglinton Avenue East, Toronto, ON, CA",,MapQuest,intersection
+43.6311,-79.475192,"672,"#2001 -1 PALACE PIER CRT, Toronto, Ontario, M8V 3W9"","[82 - 98] Palace Pier Crt, 2001 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66988,-79.39416,"673,"306-188 Cumberland St, Toronto, ON, M5R 2G3"","188 Cumberland Street, Toronto, ON, CA",,MapQuest,address
+43.707482,-79.394113,"675,"3117-98 Lillian St, Toronto, ON, M4S 0A5"","[99 - 99] Lillian St, 3117 98, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647529,-79.40136,"678,"#606 -75 PORTLAND ST, Toronto, Ontario, M5V 2M9"","[156 - 198] Portland St, 606 75, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624269,-79.478829,"681,"#1703 -56 ANNIE CRAIG DR, Toronto, Ontario, M8V 0C5"","[61 - 99] Annie Craig Dr, 1703 56, Toronto, Toronto, ON, CA",,MapQuest,street
+43.63969,-79.382346,"682,"#2610 -230 QUEENS QUAY W QUAY, Toronto, Ontario, M5J 2Y7"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.654143,-79.361363,"684,"#PH121 -460 ADELAIDE ST E, Toronto, Ontario, M5A 0E7"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.639722,-79.414351,"685,"#1203 -21 PIRANDELLO ST, Toronto, Ontario, M6K 3P4"","[51 - 99] Pirandello St, 1203 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649484,-79.457103,"686,"#803 -36 HOWARD PARK AVE, Toronto, Ontario, M6R 1V5"","[214 - 230] Howard Park Ave, 803 36, Toronto, Toronto, ON, CA",,MapQuest,street
+43.754965,-79.379161,"687,"77 CRIMSON MILLWAY WAY, Toronto, Ontario, M2L 1T8"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.678129,-79.321459,"688,"#1 -100 COXWELL AVE, Toronto, Ontario, M4L 3B2"","[492 - 498] Coxwell Ave, 1 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.685703,-79.406137,"689,"#704 -223 ST CLAIR AVE W, Toronto, Ontario, M4V 1R3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.696522,-79.411744,"690,"#807 -501 ST CLAIR AVE W, Toronto, Ontario, M5P 0A2"","ON, CA",,MapQuest,ZIP_EXTENDED
+43.661365,-79.383101,"691,"#1404 -386 YONGE ST, Toronto, Ontario, M5B 0A5"","[447 - 449] Yonge St, 1404 386, Toronto, Toronto, ON, CA",,MapQuest,street
+43.708295,-79.3971,"694,"518-30 Roehampton, Toronto, ON, M4P 1R2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.64813,-79.37132,"695,"#317 -25 THE ESPLANADE, Toronto, Ontario, M5E 1W5"","[117 - 125] The Esplanade, 317 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.646245,-79.373532,"696,"#806 -39 QUEENS QUAY E, Toronto, Ontario, M5E 0A5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.642275,-79.572971,"697,"#27 -22 APPLEWOOD LANE, Toronto, Ontario, M9C 2Z7"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.780873,-79.418923,"700,"#1312 -15 GREENVIEW AVE, Toronto, Ontario, M2M 4M7"","[40 - 98] Greenview Ave, 1312 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.663044,-79.378636,"701,"#2002 -85 WOOD ST, Toronto, Ontario, M4Y 0E8"","[95 - 99] Wood St, 2002 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.60804,-79.499721,"707,"#409 -2261 LAKE SHORE BLVD W, Toronto, Ontario, M8V 3X1"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.624269,-79.478829,"708,"#204 -59 ANNIE CRAIG DR, Toronto, Ontario, M8V 0C4"","[62 - 98] Annie Craig Dr, 204 59, Toronto, Toronto, ON, CA",,MapQuest,street
+43.640998,-79.41653,"709,"#501 -1030 KING ST W, Toronto, Ontario, M6K 3N3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.638358,-79.429476,"710,"#209 -1205 QUEEN ST W, Toronto, Ontario, M6K 0B9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.649131,-79.393555,"712,"#1018 -87 PETER ST, Toronto, Ontario, M5V 2G4"","[150 - 198] Peter St, 1018 87, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641304,-79.397055,"713,"#201 -10 NAVY WHARF COURT CRT, Toronto, Ontario, M5V 3V2"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.796457,-79.369845,"714,"#3 -84 CASTLEBURY CRES, Toronto, Ontario, M2H 1W8"","[94 - 98] Castlebury Cres, 3 84, Toronto, Toronto, ON, CA",,MapQuest,street
+43.668737,-79.386203,"716,"#2005 -110 CHARLES ST E, Toronto, Ontario, M4Y 1T5"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.768139,-79.408556,"717,"#1612 -18 PARKVIEW AVE N, Toronto, Ontario, M2N 7H7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.640472,-79.397766,"718,"#4011 -21 ICEBOAT TERR, Toronto, Ontario, M5V 4A9"","[22 - 98] Iceboat Terr, 4011 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.732413,-79.345796,"720,"811-75 The Donway W, Toronto, ON, M3C 2E9"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.757202,-79.404782,"721,"#1805 -100 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 0C2"","[101 - 199] Harrison Garden Blvd, 1805 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652687,-79.389523,"722,"#603 -96 ST PATRICKS ST, Toronto, Ontario, M5T 1V2"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.795831,-79.429184,"723,"#213 -175 HILDA AVE, Toronto, Ontario, M2M 1V8"","[207 - 299] Hilda Ave, 213 175, Toronto, Toronto, ON, CA",,MapQuest,street
+43.734138,-79.449711,"724,"#626 -525 WILSON AVE, Toronto, Ontario, M3H 1V1"","[550 - 568] Wilson Ave, 626 525, Toronto, Toronto, ON, CA",,MapQuest,street
+43.777579,-79.274902,"726,"#35 -2800 MIDLAND AVE, Toronto, Ontario, M1S 3K7"","[2300 - 2302] Midland Ave, 35 2800, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654143,-79.361363,"727,"#609 -320 RICHMOND ST E, Toronto, Ontario, M5A 1P9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.683528,-79.400067,"730,"#210 -150 FARNHAM AVE, Toronto, Ontario, M4V 1H5"","[154 - 198] Farnham Ave, 210 150, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650837,-79.44523,"731,"#216 -369 SORAUREN AVE, Toronto, Ontario, M6R 3C2"","[389 - 399] Sorauren Ave, 216 369, Toronto, Toronto, ON, CA",,MapQuest,street
+43.664342,-79.364726,"732,"#605 -225 SACKVILLE ST, Toronto, Ontario, M5A 0B9"","[314 - 348] Sackville St, 605 225, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638167,-79.389904,"734,"#419 -410 QUEENS QUAY W, Toronto, Ontario, M5V 3T1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.786911,-79.462304,"735,"#1402 -90 FISHERVILLE RD, Toronto, Ontario, M2R 3J9"","[273 - 299] Fisherville Rd, 1402 90, Toronto, Toronto, ON, CA",,MapQuest,street
+43.808713,-79.3108,"736,"#623 -1881 MCNICOLL AVE, Toronto, Ontario, M1V 5M2"","[1082 - 1082] McNicoll Ave, 623 1881, Toronto, Toronto, ON, CA",,MapQuest,street
+43.649204,-79.374343,"741,"#513 -60 COLBORNE ST, Toronto, Ontario, M5E 1E3"","[55 - 99] Colborne St, 513 60, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647751,-79.39084,"742,"#819 -295 ADELAIDE ST W, Toronto, Ontario, M5V 1P7"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.791666,-79.231292,"743,"#19 -2 DAILING GATE, Toronto, Ontario, M1B 1Z8"","[25 - 99] Dailing Gate, 19 2, Toronto, Toronto, ON, CA",,MapQuest,street
+43.663044,-79.378636,"744,"#810 -85 WOOD ST, Toronto, Ontario, M4Y 0E8"","[94 - 94] Wood St, 810 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.779454,-79.216965,"745,"#25 -250 ORTON PARK RD, Toronto, Ontario, M1G 3T6"","[371 - 499] Orton Park Rd, 25 250, Toronto, Toronto, ON, CA",,MapQuest,street
+43.637477,-79.402018,"746,"#202 -20 BRUYERES MEWS, Toronto, Ontario, M5V 0G8"","[28 - 98] Bruyeres Mews, 202 20, Toronto, Toronto, ON, CA",,MapQuest,street
+43.741549,-79.232888,"748,"#63 -175 TRUDELLE ST, Toronto, Ontario, M1J 3K5"","[358 - 398] Trudelle St, 63 175, Toronto, Toronto, ON, CA",,MapQuest,street
+43.795352,-79.329599,"749,"#139 -124 DUSAY PL, Toronto, Ontario, M1W 2N2"","[185 - 199] Dusay Pl, 139 124, Toronto, Toronto, ON, CA",,MapQuest,street
+43.653254,-79.49056,"750,"#608 -1 OLD MILL DR, Toronto, Ontario, M6S 0A1"","[100 - 198] Old Mill Dr, 608 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.785728,-79.289599,"756,"#2616 -238 BONIS AVE, Toronto, Ontario, M1T 3W7"","[298 - 298] Bonis Ave, 2616 238, Toronto, Toronto, ON, CA",,MapQuest,street
+43.768759,-79.239853,"757,"#116 -88 CORPORATE DR N, Toronto, Ontario, M1H 3G6"","Scarborough, Toronto, ON, CA",,MapQuest,postcode
+43.60804,-79.499721,"759,"#1104 -2121 LAKE SHORE BLVD W, Toronto, Ontario, M8V 4E9"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.621522,-79.485659,"760,"2215-185 Legion ROAD, Toronto, ON, M8Y 0A1"","[10 - 98] Legion Rd, 2215 185, Toronto, Toronto, ON, CA",,MapQuest,street
+43.700309,-79.42769,"761,"#706 -170 CHILTERN HILL RD, Toronto, Ontario, M6C 0A9"","[165 - 199] Chiltern Hill Rd, 706 170, Toronto, Toronto, ON, CA",,MapQuest,street
+43.684644,-79.50409,"762,"#808 -75 EMMETT AVE, Toronto, Ontario, M6M 5A7"","[190 - 198] Emmett Ave, 808 75, Toronto, Toronto, ON, CA",,MapQuest,street
+43.63955,-79.563884,"763,"#2509 -6 EVA RD, Toronto, Ontario, M9C 4Z5"","[1 - 99] Eva Rd, 2509 6, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639998,-79.391738,"764,"#2805 -35 MARINER TERR, Toronto, Ontario, M5V 3V9"","[18 - 98] Mariner Terr, 2805 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.711172,-79.248108,"769,"#38 -3646 KINGSTON RD, Toronto, Ontario, M1M 1R9"","[2533 - 2533] Kingston Rd, 38 3646, Toronto, Toronto, ON, CA",,MapQuest,street
+43.763632,-79.339159,"770,"#404 -18 GRAYDON HALL DR, Toronto, Ontario, M3A 2Z9"","[204 - 298] Graydon Hall Dr, 404 18, Toronto, Toronto, ON, CA",,MapQuest,street
+43.759086,-79.587246,"771,"#1111 -10 MARKBROOK LANE N, Toronto, Ontario, M9V 5E3"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.784167,-79.399812,"772,"#510 -28 PEMBERTON AVE, Toronto, Ontario, M2M 1Y1"","[234 - 298] Pemberton Ave, 510 28, Toronto, Toronto, ON, CA",,MapQuest,street
+43.793196,-79.268241,"773,"#113 -5235 FINCH AVE E, Toronto, Ontario, M1S 5X3"","Scarborough, Toronto, ON, CA",,MapQuest,postcode
+43.601677,-79.54008,"774,"#502 -3865 LAKE SHORE BLVD W, Toronto, Ontario, M8W 0A2"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.776193,-79.33629,"777,"#107 -1900 SHEPPARD AVE E, Toronto, Ontario, M2J 4T4"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.769646,-79.37007,"778,"#1912 -29 SINGER CRT, Toronto, Ontario, M2K 0B3"","[2 - 98] Singer Crt, 1912 29, Toronto, Toronto, ON, CA",,MapQuest,street
+43.670409,-79.394705,"779,"#2815 -155 YORKVILLE AVE, Toronto, Ontario, M5R 1C4"","[141 - 199] Yorkville Ave, 2815 155, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757202,-79.404782,"780,"1110-28 Harrison Garden BLVD, Toronto, ON, M2N 7B5"","[100 - 198] Harrison Garden Blvd, 1110 28, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774502,-79.252885,"781,"#1007 -70 TOWN CENTRE CRT, Toronto, Ontario, M1P 0B2"","[61 - 99] Town Centre Crt, 1007 70, Toronto, Toronto, ON, CA",,MapQuest,street
+43.7754,-79.413043,"782,"#225 -15 NORTHTOWN WAY, Toronto, Ontario, M2N 7A2"","[10 - 98] Northtown Way, 225 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66071,-79.363552,"783,"#712 -1 COLE ST, Toronto, Ontario, M5A 4M2"","[59 - 99] Cole St, 712 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.822427,-79.27432,"784,"#303 -300 ALTON TOWERS CIRC, Toronto, Ontario, M1V 4X9"","[374 - 398] Alton Towers Cir, 303 300, Toronto, Toronto, ON, CA",,MapQuest,street
+43.596267,-79.534738,"785,"#25 -140 LONG BRANCH AVE, Toronto, Ontario, M8W 0A9"","[115 - 199] Long Branch Ave, 25 140, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774502,-79.252885,"787,"#3009 -25 TOWN CENTRE CRT, Toronto, Ontario, M1P 0B4"","[61 - 99] Town Centre Crt, 3009 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.775676,-79.34374,"788,"#706 -5 PARKWAY FOREST DR, Toronto, Ontario, M2J 1L2"","[188 - 198] Parkway Forest Dr, 706 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.729859,-79.328426,"790,"#609 -7 CONCORDE PL, Toronto, Ontario, M3C 3N4"","[10 - 18] Concorde Pl, 609 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.646385,-79.394497,"791,"#406 -25 OXLEY ST, Toronto, Ontario, M5V 2J5"","[23 - 99] Oxley St, 406 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.733091,-79.268341,"795,"#901 -855 KENNEDY RD, Toronto, Ontario, M1K 2E3"","795 Kennedy Rd, 901 855, Toronto, Toronto, ON, CA",,MapQuest,address
+43.743051,-79.218944,"798,"#318 -180 MARKHAM RD, Toronto, Ontario, M1M 2Z9"","[190 - 192] Markham Rd, 318 180, Toronto, Toronto, ON, CA",,MapQuest,street
+43.693229,-79.504652,"799,"#602 -2464 WESTON RD, Toronto, Ontario, M9N 2A2"","[1441 - 1499] Weston Rd, 602 2464, Toronto, Toronto, ON, CA",,MapQuest,street
+43.716544,-79.399746,"800,"#807 -100 LOTHERTON PTWY, Toronto, Ontario, M6B 2G8"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.650492,-79.386279,"801,"#3009 -180 UNIVERSITY AVE, Toronto, Ontario, M5H 0A2"","[251 - 299] University Ave, 3009 180, Toronto, Toronto, ON, CA",,MapQuest,street
+43.65782,-79.515663,"802,"#302 -4 THE KINGSWAY, Toronto, Ontario, M8X 1A7"","[202 - 298] The Kingsway, 302 4, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641058,-79.376737,"803,"#3511 -55 HARBOUR SQ, Toronto, Ontario, M5J 2L1"","[47 - 99] Harbour Sq, 3511 55, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641304,-79.397055,"804,"#2901 -199 RICHMOND ST W, Toronto, Ontario, M5V 0H4"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.661167,-79.387895,"806,"#6213 -7 GRENVILLE ST, Toronto, Ontario"","[78 - 98] Grenville St, 6213 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.69652,-79.39546,"809,"Ph1114-18 Merton St, Toronto, ON, M4S 3G9"","18 Merton Street, Toronto, ON, CA",,MapQuest,address
+43.748081,-79.384383,"810,"#110 -75 YORK MILLS RD, Toronto, Ontario, M2P 2E7"","[304 - 304] York Mills Rd, 110 75, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652187,-79.367278,"812,"#807 -138 PRINCESS ST, Toronto, Ontario, M5A 0B1"","[160 - 198] Princess St, 807 138, Toronto, Toronto, ON, CA",,MapQuest,street
+43.620608,-79.507348,"813,"16 SUPERIOR CREEK LANE, Toronto, Ontario, M8Z 6C5"","[33 - 99] Superior Creek Lane, 16, Toronto, Toronto, ON, CA",,MapQuest,street
+43.679441,-79.376675,"815,"#4210 -1 BLOOR ST E, Toronto, Ontario, M4W 1A9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.676074,-79.295294,"816,"#301 -15 GLEN MANOR DR, Toronto, Ontario, M4E 2X3"","[282 - 398] Glen Manor Dr W, 1 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.666544,-79.472547,"818,"#1603 -100 QUEBEC AVE, Toronto, Ontario, M6P 4B8"","[484 - 598] Quebec Ave, 1603 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639349,-79.416066,"819,"111-22 Western Battery Rd, Toronto, ON, M6K 3N9"","[129 - 199] Western Battery Rd, 111 22, Toronto, Toronto, ON, CA",,MapQuest,street
+43.654143,-79.361363,"820,"#229 -510 KING ST E, Toronto, Ontario, M5A 0E5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.73984,-79.34604,"821,"316-255 The Donway W, Toronto, ON, M3B 3M3"","255 The Donway West, North York, ON, CA",,MapQuest,address
+43.662841,-79.372905,"822,"#103 -90 SHERBOURNE ST, Toronto, Ontario, M5A 2R1"","[350 - 354] Sherbourne St, 103 90, Toronto, Toronto, ON, CA",,MapQuest,street
+43.6311,-79.475192,"823,"3108-1 Palace Pier CRT, Toronto, ON, M8V 3W9"","[83 - 99] Palace Pier Crt, 3108 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.778932,-79.411662,"824,"#1408 -5 KENNETH AVE, Toronto, Ontario, M2N 6M7"","[444 - 498] Kenneth Ave, 1408 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.757399,-79.425701,"826,"#2106 -11 BOGERT AVE, Toronto, Ontario, M2N 1K4"","[310 - 398] Bogert Ave, 2106 11, Toronto, Toronto, ON, CA",,MapQuest,street
+43.774634,-79.344008,"827,"#2406 -66 FOREST MANOR RD, Toronto, Ontario, M2J 1M6"","[89 - 99] Forest Manor Rd, 2406 66, Toronto, Toronto, ON, CA",,MapQuest,street
+43.639349,-79.416066,"828,"#1105 -100 WESTERN BATTERY RD, Toronto, Ontario, M6K 3S2"","[98 - 198] Western Battery Rd, 1105 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.673059,-79.29535,"829,"#209 -101 HAMMERSMITH AVE, Toronto, Ontario, M4E 2W3"","[145 - 199] Hammersmith Ave, 209 101, Toronto, Toronto, ON, CA",,MapQuest,street
+43.6399,-79.38111,"830,"315-208 Queens QUAY WEST, Toronto, ON, M5J 2Y5"","208 Queens Quay West, Toronto, ON, CA",,MapQuest,address
+43.644872,-79.398751,"831,"#1304 -438 KING ST W, Toronto, Ontario, M5V 3T9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.645002,-79.414202,"832,"#118 -955 QUEEN ST W, Toronto, Ontario, M6J 1G9"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.73737,-79.343419,"833,"#309 -1210 DON MILLS RD, Toronto, Ontario, M3B 3N9"","[1107 - 1119] Don Mills Rd, 309 1210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.660693,-79.464217,"834,"#1405 -1369 BLOOR ST W, Toronto, Ontario, M6P 4J4"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.680831,-79.283964,"836,"106-1093 Kingston ROAD, Toronto, ON, M1N 4E2"","[1054 - 1054] Kingston Rd, 106 1093, Toronto, Toronto, ON, CA",,MapQuest,street
+43.636243,-79.409338,"837,"#1504 -600 FLEET ST, Toronto, Ontario, M5V 1B7"","837 Fleet St, 1504 600, Toronto, Toronto, ON, CA",,MapQuest,address
+43.662192,-79.34095,"839,"#726 -88 COLGATE AVE, Toronto, Ontario, M4M 0A6"","[57 - 99] Colgate Ave, 726 88, Toronto, Toronto, ON, CA",,MapQuest,street
+43.775277,-79.359132,"840,"#519 -10 BLOORVIEW PL, Toronto, Ontario, M2J 0B1"","[58 - 398] Bloorview Pl, 519 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.662166,-79.386235,"842,"#1202 -832 BAY ST, Toronto, Ontario, M5S 1Z6"","842 Bay St, 1202 832, Toronto, Toronto, ON, CA",,MapQuest,address
+43.667015,-79.374793,"843,"#703 -8 WELLESLEY ST E, Toronto, Ontario, M4Y 3B2"","[161 - 193] Wellesley St E, 3 8 e, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66505,-79.411215,"845,"#603 -783 BATHURST ST, Toronto, Ontario, M5S 0A8"","[797 - 797] Bathurst St, 603 783, Toronto, Toronto, ON, CA",,MapQuest,street
+43.756846,-79.405516,"846,"#GPH17 -100 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 0C2"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.656567,-79.355764,"848,"#605 -51 TROLLEY CRES, Toronto, Ontario, M5A 0E9"","[86 - 98] Trolley Cres, 605 51, Toronto, Toronto, ON, CA",,MapQuest,street
+43.67711,-79.4067,"849,"309-377 Madison Ave, Toronto, ON, M4V 2W7"","Madison Avenue, Toronto, ON, CA",,MapQuest,street
+43.650588,-79.398301,"851,"213-38 Cameron St, Toronto, ON, M2N 1H1"","[75 - 99] Cameron St, 213 38, Toronto, Toronto, ON, CA",,MapQuest,street
+43.728822,-79.382845,"853,"#2111 -830 LAWRENCE AVE W, Toronto, Ontario, M6A 1C3"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.672153,-79.376792,"854,"#306 -500 SHERBOURNE ST, Toronto, Ontario, M4X 1L1"","[602 - 698] Sherbourne St, 306 500, Toronto, Toronto, ON, CA",,MapQuest,street
+43.689267,-79.29602,"856,"#922 -8 TRENT AVE, Toronto, Ontario, M4C 5C6"","[40 - 98] Trent Ave, 922 8, Toronto, Toronto, ON, CA",,MapQuest,street
+43.679441,-79.376675,"857,"#3101 -8 PARK RD, Toronto, Ontario, M4W 3S5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.641903,-79.52777,"858,"#703 -2 FIELDWAY DR, Toronto, Ontario, M8Z 3L2"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.66052,-79.385745,"859,"#708 -633 BAY ST, Toronto, Ontario, M5G 2G4"","[777 - 791] Bay St, 708 633, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641221,-79.391715,"861,"#602 -81 NAVY WHARF CRT, Toronto, Ontario, M5V 3S2"","[65 - 99] Navy Wharf Crt, 602 81, Toronto, Toronto, ON, CA",,MapQuest,street
+43.652657,-79.366421,"862,"#627 -461 ADELAIDE ST W, Toronto, Ontario, M5V 1T1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.765477,-79.491241,"863,"#14 -5 FOUR WINDS DR, Toronto, Ontario, M3J 1K7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.641221,-79.391715,"865,"#711 -10 NAVY WHARF  CRT, Toronto, Ontario, M5V 3V2"","[65 - 99] Navy Wharf Crt, 711 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.622898,-79.480893,"866,"#410 -5 MARINE PARADE DR, Toronto, Ontario, M8V 4B4"","[188 - 198] Marine Parade Dr, 410 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624269,-79.478829,"867,"#2802 -59 ANNIE CRAIG DR, Toronto, Ontario, M8V 0C5"","[61 - 99] Annie Craig Dr, 2802 59, Toronto, Toronto, ON, CA",,MapQuest,street
+43.67654,-79.40561,"868,"109-380 Macpherson Ave, Toronto, ON, M4V 3E3"","380 Macpherson Avenue, Toronto, ON, CA",,MapQuest,address
+43.749212,-79.40659,"869,"#807 -28 WILLIAM CARSON CRES, Toronto, Ontario, M2P 2H1"","[7 - 99] William Carson Cres, 807 28, Toronto, Toronto, ON, CA",,MapQuest,street
+43.600744,-79.525939,"870,"#15 -10 CARNATION AVE, Toronto, Ontario, M8V 0B8"","[44 - 98] Carnation Ave, 15 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746735,-79.284551,"871,"#221 -1328 BIRCHMOUNT  RD, Toronto, Ontario, M1R 3A7"","[1238 - 1238] Birchmount Rd, 221 1328, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638358,-79.429476,"872,"#6 -1636 DUNDAS ST W, Toronto, Ontario, M6K 1V1"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.65853,-79.380442,"874,"#PH 05 -210 VICTORIA ST, Toronto, Ontario, M5B 2R3"","[350 - 398] Victoria St, ph 05 210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.781138,-79.44469,"876,"#2403 -100 ANTIBES DR, Toronto, Ontario, M2R 3N1"","[504 - 598] Antibes Dr, 2403 100, Toronto, Toronto, ON, CA",,MapQuest,street
+43.756451,-79.409723,"878,"#2611 -5168 YONGE ST, Toronto, Ontario, M2N 0G1"","[4500 - 4576] Yonge St, 2611 5168, Toronto, Toronto, ON, CA",,MapQuest,street
+43.670384,-79.381702,"882,"#906 -35 HAYDEN ST, Toronto, Ontario, M4Y 3C3"","[80 - 198] Hayden St, 906 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638167,-79.389904,"883,"#313 -410 QUEENS QUAY W, Toronto, Ontario, M5V 3T1"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.669113,-79.383989,"885,"#902 -42 CHARLES ST E, Toronto, Ontario, M4Y 1T4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.682853,-79.511198,"886,"#1502 -25 FONTENAY CRT, Toronto, Ontario, M9A 0C4"","[18 - 98] Fontenay Crt, 1502 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.669113,-79.383989,"887,"#3110 -42 CHARLES ST E, Toronto, Ontario, M4Y 1T4"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.649484,-79.457103,"888,"#401 -36 HOWARD PARK AVE, Toronto, Ontario, M6R 0A5"","[214 - 230] Howard Park Ave, 401 36, Toronto, Toronto, ON, CA",,MapQuest,street
+43.776058,-79.255206,"889,"#2206 -83 BOROUGH DR, Toronto, Ontario, M1P 5E4"","[355 - 399] Borough Dr, 2206 83, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780764,-79.347135,"891,"#PH06 -30 HERON'S HILL WAY, Toronto, Ontario, M2J 0A7"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.780873,-79.418923,"892,"#2302 -15 GREENVIEW AVE, Toronto, Ontario, M2M 4M7"","[40 - 98] Greenview Ave, 2302 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780764,-79.347135,"895,"#1603 -55 ANN O'REILLY RD, Toronto, Ontario, M2J 0C9"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.763993,-79.499146,"897,"#63 -37 FOUR WINDS DR, Toronto, Ontario, M3J 1K7"","[33 - 99] Four Winds Dr, 63 37, Toronto, Toronto, ON, CA",,MapQuest,street
+43.644705,-79.384963,"898,"#1611 -51 LOWER SIMCOE ST, Toronto, Ontario, M5J 3A2"","[98 - 98] Lower Simcoe St, 1611 51, Toronto, Toronto, ON, CA",,MapQuest,street
+43.597886,-79.519423,"899,"#2302 -373 FRONT ST W, Toronto, Ontario, M5V 3R7"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.695006,-79.289805,"901,"#1711 -757 VICTORIA PARK AVE, Toronto, Ontario, M4C 5N8"","[781 - 799] Victoria Park Ave, 1711 757, Toronto, Toronto, ON, CA",,MapQuest,street
+43.623027,-79.481088,"902,"#4105 -2212 LAKE SHORE BLVD W, Toronto, Ontario, M8V 1A4"","Etobicoke, ON, CA",,MapQuest,ZIP_EXTENDED
+43.758665,-79.407436,"907,"#252 -3 EVERSON DR, Toronto, Ontario, M2N 7C2"","[29 - 99] Everson Dr, 252 3, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650821,-79.381018,"908,"#1004 -311 RICHMOND ST E, Toronto, Ontario, M5A 4S8"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.76414,-79.31919,"910,"1412-1360 York Mills  Rd, Toronto, ON, M3A 2A2"","1360 York Mills Road, North York, ON, CA",,MapQuest,address
+43.765456,-79.479146,"911,"#1016 -3043 FINCH AVE W, Toronto, Ontario, M9M 0A4"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.635604,-79.406755,"912,"#1807 -170 FORT YORK BLVD, Toronto, Ontario, M5V 0E6"","[298 - 298] Fort York Blvd, 1807 170, Toronto, Toronto, ON, CA",,MapQuest,street
+43.746735,-79.284551,"913,"#902 -1328 BIRCHMOUNT RD, Toronto, Ontario, M1R 0B6"","[1238 - 1238] Birchmount Rd, 902 1328, Toronto, Toronto, ON, CA",,MapQuest,street
+43.645128,-79.531754,"914,"#411 -11 MICHAEL POWER PL, Toronto, Ontario, M9A 5G3"","[46 - 98] Michael Power Pl, 411 11, Toronto, Toronto, ON, CA",,MapQuest,street
+43.782173,-79.339634,"915,"#710 -10 MUIRHEAD RD, Toronto, Ontario, M2J 4P9"","[111 - 199] Muirhead Rd, 710 10, Toronto, Toronto, ON, CA",,MapQuest,street
+43.647092,-79.397176,"916,"#708 -50 CAMDEN ST, Toronto, Ontario, M5V 3N1"","[2 - 98] Camden St, 708 50, Toronto, Toronto, ON, CA",,MapQuest,street
+43.725418,-79.340739,"917,"#1416 -5 VICORA LINK WAY, Toronto, Ontario, M3C 1A5"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.66071,-79.363552,"918,"#510 -1 COLE ST, Toronto, Ontario, M5A 4M2"","[66 - 98] Cole St, 510 1, Toronto, Toronto, ON, CA",,MapQuest,street
+43.779091,-79.418486,"919,"#903 -155 BEECROFT RD, Toronto, Ontario, M2N 7C6"","[519 - 599] Beecroft Rd, 903 155, Toronto, Toronto, ON, CA",,MapQuest,street
+43.641412,-79.558097,"923,"#808 -9 VALHALLA INN RD, Toronto, Ontario, M9B 0B2"","[65 - 99] Valhalla Inn Rd, 808 9, Toronto, Toronto, ON, CA",,MapQuest,street
+43.750215,-79.445791,"924,"#313 -701 SHEPPARD AVE W, Toronto, Ontario, M3H 0B2"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.645128,-79.531754,"926,"#401 -9 MICHAEL POWER PL, Toronto, Ontario, M9A 0A5"","[46 - 98] Michael Power Pl, 401 9, Toronto, Toronto, ON, CA",,MapQuest,street
+43.626292,-79.519845,"927,"232-1185 The Queensway Ave, Toronto, ON, M8Z 0C6"","Etobicoke, Toronto, ON, CA",,MapQuest,postcode
+43.660693,-79.464217,"928,"439-1830 Bloor St W, Toronto, ON, M6P 0A2"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.785013,-79.400602,"929,"#1109 -7 BISHOP AVE, Toronto, Ontario, M2M 4J4"","[201 - 299] Bishop Ave, 1109 7, Toronto, Toronto, ON, CA",,MapQuest,street
+43.767428,-79.442307,"930,"#102 -55 CARSCADDEN DR, Toronto, Ontario, M2R 2A6"","[50 - 66] Carscadden Dr, 102 55, Toronto, Toronto, ON, CA",,MapQuest,street
+43.696299,-79.291855,"933,"#1911 -5 MASSEY SQ, Toronto, Ontario, M4C 5L6"","[43 - 99] Massey Sq, 1911 5, Toronto, Toronto, ON, CA",,MapQuest,street
+43.718034,-79.376017,"942,"409-21 Burkebrook Pl, Toronto, ON, M4G 0A2"","[14 - 98] Burkebrook Pl, 409 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.648456,-79.532311,"943,"410-9 Burnhamthorpe CRES, Toronto, ON, M9A 1G5"","[43 - 99] Burnhamthorpe Cres, 410 9, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66286,-79.37627,"945,"810-130 Carlton STREET, Toronto, ON, M5A 4K3"","130 Carlton Street, Toronto, ON, CA",,MapQuest,address
+43.638358,-79.429476,"946,"#PH13 -1000 KING ST W, Toronto, Ontario, M6K 3N1"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.723146,-79.38002,"948,"74 HARGRAVE LANE, Toronto, Ontario, M4N 0A4"","[2 - 98] Hargrave Lane, 74, Toronto, Toronto, ON, CA",,MapQuest,street
+43.73737,-79.343419,"949,"201-1210 Don Mills Rd, Toronto, ON, M3B 3N9"","[1107 - 1119] Don Mills Rd, 201 1210, Toronto, Toronto, ON, CA",,MapQuest,street
+43.675117,-79.390489,"950,"#108 -15 MCMURRICH ST, Toronto, Ontario, M5R 3M6"","[54 - 98] McMurrich St, 108 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.679441,-79.376675,"951,"#2109 -1 BLOOR ST E, Toronto, Ontario, M4W 1A9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.656489,-79.388299,"953,"#811 -38 ELM ST, Toronto, Ontario, M5G 2K5"","[101 - 149] Elm St, 811 38, Toronto, Toronto, ON, CA",,MapQuest,street
+43.638668,-79.418854,"955,"#1015 -85 EAST LIBERTY ST, Toronto, Ontario, M6K 0A2"","[173 - 199] E Liberty St, 1015 85, Toronto, Toronto, ON, CA",,MapQuest,street
+43.696669,-79.411794,"958,"#722 -23 GLEBE RD W, Toronto, Ontario, M5P 0A1"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.668737,-79.386203,"959,"#602 -110 CHARLES ST E, Toronto, Ontario, M4Y 1T5"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.641258,-79.495606,"960,"#2208 -90 PARK LAWN RD, Toronto, Ontario, M8Y 3H3"","[348 - 398] Park Lawn Rd, 2208 90, Toronto, Toronto, ON, CA",,MapQuest,street
+43.67475,-79.366383,"961,"#809 -1 BLOOR ST E, Toronto, Ontario, M4W 0A8"","[743 - 753] Bloor St E, 9 1 e, Toronto, Toronto, ON, CA",,MapQuest,street
+43.714288,-79.354853,"964,"#506 -35 BRIAN PECK CRES, Toronto, Ontario, M4G 0A5"","[2 - 98] Brian Peck Cres, 506 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.650379,-79.38195,"965,"#2217 -70 TEMPERANCE ST, Toronto, Ontario, M5H 4E8"","[57 - 99] Temperance St, 2217 70, Toronto, Toronto, ON, CA",,MapQuest,street
+43.780873,-79.418923,"966,"#813 -15 GREENVIEW AVE, Toronto, Ontario, M2M 4M7"","[40 - 98] Greenview Ave, 813 15, Toronto, Toronto, ON, CA",,MapQuest,street
+43.754905,-79.44149,"967,"#PH10 -650 SHEPPARD AVE E, Toronto, Ontario, M2K 3E4"","North York, ON, CA",,MapQuest,ZIP_EXTENDED
+43.79012,-79.3928,"968,"#TH7 -3237 BAYVIEW AVE, Toronto, Ontario, M2K 2N4"","3237 Bayview Avenue, North York, ON, CA",,MapQuest,address
+43.757202,-79.404782,"969,"#433 -120 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 0H1"","[101 - 199] Harrison Garden Blvd, 433 120, Toronto, Toronto, ON, CA",,MapQuest,street
+43.627068,-79.478454,"971,"#3504 -16 BROOKERS LANE, Toronto, Ontario, M8V 0A5"","[1 - 99] Brookers Lane, 3504 16, Toronto, Toronto, ON, CA",,MapQuest,street
+43.707333,-79.395974,"974,"#2701 -8 EGLINTON AVE E, Toronto, Ontario, M4P 1A6"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.774306,-79.389899,"975,"#1209 -35 EMPRESS AVE, Toronto, Ontario, M2N 6T3"","[445 - 499] Empress Ave, 1209 35, Toronto, Toronto, ON, CA",,MapQuest,street
+43.695771,-79.369274,"976,"#708 -1801 BAYVIEW AVE, Toronto, Ontario, M4G 4K2"","976 Bayview Ave, 708 1801, Toronto, Toronto, ON, CA",,MapQuest,address
+43.666554,-79.381667,"977,"#703 -33 CHARLES ST E, Toronto, Ontario, M4Y 1R9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.768139,-79.408556,"978,"#2119 -35 HOLLYWOOD AVE E, Toronto, Ontario, M2N 0A9"","North York, Toronto, ON, CA",,MapQuest,postcode
+43.780873,-79.418923,"980,"#1920 -25 GREENVIEW AVE, Toronto, Ontario, M2M 0A5"","[40 - 98] Greenview Ave, 1920 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.63969,-79.473979,"981,"114-60 Southport St, Toronto, ON, M6S 3N4"","[63 - 99] Southport St, 114 60, Toronto, Toronto, ON, CA",,MapQuest,street
+43.655424,-79.390719,"982,"#104 -78 ST PATRICK ST, Toronto, Ontario, M5T 1V1"","[168 - 298] St Patrick St, 104 78, Toronto, Toronto, ON, CA",,MapQuest,street
+43.675095,-79.454651,"983,"#4 -108 CALEDONIA PARK RD, Toronto, Ontario, M6H 0B1"","[121 - 199] Caledonia Park Rd, 4 108, Toronto, Toronto, ON, CA",,MapQuest,street
+43.624711,-79.48916,"985,"#432 -165 LEGION RD N, Toronto, Ontario, M8Y 0B3"","ON, CA",,MapQuest,ZIP_EXTENDED
+43.779334,-79.449119,"986,"#TH2 -21 CONEFLOWER CRES, Toronto, Ontario, M2R 0A4"","[40 - 98] Coneflower Cres, th2 21, Toronto, Toronto, ON, CA",,MapQuest,street
+43.66052,-79.385745,"989,"#2523 -633 BAY ST, Toronto, Ontario, M5G 2G4"","[777 - 791] Bay St, 2523 633, Toronto, Toronto, ON, CA",,MapQuest,street
+43.666554,-79.381667,"992,"#703 -101 CHARLES ST E, Toronto, Ontario, M4Y 0A9"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.669957,-79.379867,"993,"#359 -415 JARVIS ST, Toronto, Ontario, M4Y 3C1"","[579 - 799] Jarvis St, 359 415, Toronto, Toronto, ON, CA",,MapQuest,street
+43.816214,-79.323542,"994,"#1231 -25 BAMBURGH CIRC, Toronto, Ontario, M1W 3W2"","[358 - 398] Bamburgh Cir, 1231 25, Toronto, Toronto, ON, CA",,MapQuest,street
+43.67322,-79.35644,"995,"420-130 Widdicombe Hill BLVD, Toronto, ON, M9R 4A6"","420 Montcrest Boulevard, Toronto, ON, CA",,MapQuest,address
+43.654143,-79.361363,"998,"#604 -569 KING ST E, Toronto, Ontario, M5A 1M5"","Toronto, Toronto, ON, CA",,MapQuest,postcode
+43.661177,-79.361346,"999,"#209 -1190 DUNDAS ST E, Toronto, Ontario, M4M 1S3"","Toronto, ON, CA",,MapQuest,ZIP_EXTENDED
+43.72286,-79.45715,"1000,"#309 -16 MCADAM AVE, Toronto, Ontario, M6A 1S5"","16 McAdam Avenue, North York, ON, CA",,MapQuest,address
+43.76046,-79.40692,"1001,"#1011 -17 ANNDALE DR, Toronto, Ontario, M2N 2W7"","17 Anndale Drive, North York, ON, CA",,MapQuest,address
+43.79189,-79.35351,"1002,"#3308 -3303 DON MILLS RD, Toronto, Ontario, M2J 4T6"","3303 Don Mills Road, North York, ON, CA",,MapQuest,address
+43.75201,-79.33483,"1005,"12-48 Three Valleys Dr, Toronto, ON, M3A 3B5"","48 Three Valleys Drive, North York, ON, CA",,MapQuest,address
+43.7666,-79.38317,"1006,"#412 -12 REAN DR, Toronto, Ontario, M2K 3C6"","12 Rean Drive, North York, ON, CA",,MapQuest,address
+43.63964,-79.41518,"1007,"#2208 -50 LYNN WILLIAMS ST, Toronto, Ontario, M6K 3R9"","50 Lynn Williams Street, Toronto, ON, CA",,MapQuest,address
+43.63616,-79.47062,"1009,"1516-105 The Queensway, Toronto, ON, M6S 5B5"","105 The Queensway, Toronto, ON, CA",,MapQuest,address
+43.72731,-79.39095,"1010,"#207 -8835 SHEPPARD AVE E, Toronto, Ontario, M1B 5R7"","207 Lawrence Avenue East, Toronto, ON, CA",,MapQuest,address
