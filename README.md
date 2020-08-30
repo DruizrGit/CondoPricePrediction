@@ -17,3 +17,7 @@ The two main classes in web_scraper.py are DataContainers and RealEstateCrawler:
     This class is the main web crawler / scraper that does all the heavy lifting. It contains several functions to extract the information specified by the user. It is responsible for finding the buttons that take you to new webpages, sending http requests to those links and crawling over those webpages and scraping off all relevant information. Once the task is completed, it will write the data onto a "csv" file.
   </li>
 </ul>
+
+### Cleaning, Feature Engineering, Modelling: CondoPrices.ipynb
+
+This is the main file where all the exploration, cleaning, feature engineering and modelling is performed. I had originally tried a series of NeuralNetworks (see CondoPrice-NeuralNetworks.ipynb) to model the data with. However, the training process was taking horrendously long and not amounting to a remotely good loss score. I ended up trying a RandomForest and getting a stark improvement. I chose a few hyperparameters to vary over and performed a GridSearch to select out the set of hyperparameters that results in the best model. When it comes to regression problems, certain metrics can be used for determining how 'accurate' the model is. I introduced a benchmark of +/- $50000 as one such metric and also used the Mean Absolute Percentage Error (MAPE) as the second way of measuring accuracy.
