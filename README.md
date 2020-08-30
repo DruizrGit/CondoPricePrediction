@@ -2,7 +2,7 @@
 
 This repository contains all the relevant files for collecting, exploring, cleaning and modelling the real estate data for the purpose of predicting condominium prices.
 
-<b> Web Scraping : web_scraper.py </b>
+# Web Scraping : web_scraper.py 
 
 I was particularly interested in the Toronto Housing market and finding a 2020 dataset with relevant fields proved to be a bit difficult. This further incentivized me to simply collect my own data by scraping it off the web. However, I wanted to make a web scraper that was quite general and that I can return to for further use in the future for new projects down the road. 
 
